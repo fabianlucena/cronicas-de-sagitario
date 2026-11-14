@@ -61,6 +61,8 @@
 >
 > ***Fin de transmisión.***
 
+---
+
 Era una grabación de voz. El Almirante observó al capitán Cho como inspeccionado en busca de una reacción, esperaba alguna pregunta.
 
 —¿Hacia la Confluencia Abisal?
@@ -87,6 +89,8 @@ Era una grabación de voz. El Almirante observó al capitán Cho como inspeccion
 
 —Sí. Narimis está investigando el incidente.
 
+---
+
 La lanzadera abandonó la ruta de aproximación principal y comenzó a describir una curva suave alrededor de la estación orbital. Cho observó en silencio, dirigió su rostro directo hacia la ventana y al estar seguro que nadie lo veía dibujo una sonrisa, un anhelo que ni siquiera él sabía que tenía. La estación ocupa buena parte del campo visual. Muelles de carga, anillos habitacionales, plataformas de mantenimiento y cientos de puntos luminosos moviéndose entre remolcadores, transportes y naves de servicio. Una verdadera ciudad espacial.
 
 Y allí, suspendida junto a uno de los brazos exteriores, estaba la nave. La Alejandro. Cho la conocía por los informes. También por su reputación. Había participado en operaciones de frontera, campañas de escolta y misiones de exploración durante décadas. Una de las famosas de la flota, pero pocos oficiales discutían su prestigio.
@@ -94,6 +98,8 @@ Y allí, suspendida junto a uno de los brazos exteriores, estaba la nave. La Ale
 El casco reflejaba la luz de la estación en superficies impecables. A simple vista resultaba imposible distinguir las modificaciones recientes. Sólo un observador experto habría notado que varias secciones del blindaje no pertenecían exactamente al mismo lote de fabricación. Se habían reemplazado cubiertas completas tras daños sufridos en pasados combates. Otras secciones habían sido reconstruidas durante las sucesivas modernizaciones. La nave conservaba sus cicatrices. Pero las llevaba con orgullo.
 
 La lanzadera continuó descendiendo. No se dirigía hacia los grandes túneles de atraque. Cho observó el casco buscando el acceso asignado. No lo encontró. Eso le gustó, era exactamente como debía ser. La barquilla del capitán estaba tan integrada en la geometría de la nave que desde el exterior resultaba prácticamente invisible. Una discreta compuerta situada entre sensores y paneles de acceso ocupaba una sección del casco que la mayoría de los observadores jamás identificaría como una entrada. Era un acceso reservado al comandante y al cuerpo de mando. El resto de la tripulación embarcaba por las pasarelas principales, junto a cargamentos, suministros y personal técnico.
+
+---
 
 La lanzadera ingresó y se posó en el muelle interior presurizado. Los cierres magnéticos se activaron. La puerta se abrió. Al otro lado esperaba un hombre con uniforme técnico azul oscuro. Sin herramientas. Simplemente le esperaba. Como quien lleva días aguardando la llegada de alguien importante.
 
@@ -245,6 +251,8 @@ En el centro exacto de aquella arquitectura de silencio flotaba el núcleo. Susp
 
 Aquel objeto era la auténtica singularidad tecnológica de la nave. De el nacía la energía de la nave, la gravedad artificial, los motores de impulso, los escudos, los sensores de largo alcance y el generador de puente.
 
+---
+
 Varela se paró nervioso frente al capitán. Cho lo notó.
 
 —Capitán, si me permite.
@@ -353,6 +361,8 @@ Cho tuvo que admitir que era un buen argumento.
 
 —Nuestra nave, capitán. —¿Nuestra?, pensó Cho, pero no quiso corregirlo.
 
+---
+
 Cho se dirigió a sus aposentos. Aposentos no es la palabra precisa. La estancia ocupaba una sección completa junto al sector de mando. Había sido diseñada cuando la Alejandro era una nave insignia y todavía conservaba esa cualidad difícil de describir que distingue a los espacios construidos para ejercer autoridad. No era ostentación es Magnanimidad.
 
 El techo es más alto que en el resto de la nave. La ventana ocupa un amplio segmento del mamparo exterior. La mesa de trabajo permite desplegar mapas estelares de tamaño estratégico. Los muebles son funcionalmente sencillos, nada ostentoso pero tampoco minimalista. Todo construido para perdurar décadas. Cho dejó la chaqueta reglamentaria en el perchero situado junto a la entrada.
@@ -362,6 +372,8 @@ El terminal reconoció inmediatamente su presencia.
 —*Capitán autorizado.*
 
 Decenas de documentos aparecieron ante él. Órdenes del almirantazgo. Protocolos diplomáticos. Acuerdos provisionales con Narimis. Inventarios. Evaluaciones de riesgo. Informes de inteligencia. Durante casi una hora trabajó en silencio. Cuando terminó, descubrió algo que ya sospechaba. La misión oficial es encontrar supervivientes. La misión real consiste en entrar donde nadie quería entrar.
+
+---
 
 Activó el comunicador.
 
@@ -495,11 +507,13 @@ Durante unos segundos la enorme masa de la Alejandro pareció permanecer inmóvi
 
 —¿Cuánto más?
 
-—Una cuatro horas, Señor. —Cho se sintió complacido con la respuesta del navegante.
+—Quizás, unas cuatro horas, Señor. —Cho se sintió complacido con la respuesta del navegante.
 
 —Oficial, reúna a todos en la sala de situación en diez minutos.
 
 —Si, Señor.
+
+---
 
 La sala de situación comenzó a llenarse lentamente. No era una reunión de toda la expedición. Todavía faltaban especialistas por incorporar, miembros del cuerpo de mando, oficiales destinados a unirse a la misión en Novogord. Era simplemente el núcleo inicial. Los que ya estaban a bordo. Cho tomó asiento en cabecera.
 
@@ -705,6 +719,8 @@ Los dos guardaron silencio inmediatamente.
 
 La reunión terminó y los oficiales comenzaron a dispersarse. Cho observó el cronómetro de tránsito. Todavía faltaban varias horas para alcanzar una posición de salto adecuada. Novogord tendría que esperar.
 
+---
+
 En el comedor, la doctora Patel revisaba informes de suministros médicos. Frente a ella, el navegante estudiaba una carta astrométrica proyectada sobre la mesa. Varela apareció con una taza.
 
 —¿Siempre hay tanta gente despierta después de zarpar? —dijo la Dra. levantando la vista.
@@ -829,7 +845,7 @@ Patel apoyó los codos sobre la mesa.
 
 —Entonces intente otra respuesta.
 
-Sinclair observó durante unos segundos la representación de la Confluencia suspendida en una pantalla cercana.
+Takoda Sinclair observó durante unos segundos la representación de la Confluencia suspendida en una pantalla cercana.
 
 —He estudiado miles de ecosistemas en cientos de mundos. Y todos son variaciones del mismo milagro. —La sonrisa desapareció de su rostro.
 
@@ -903,13 +919,13 @@ El navegante observó un momento el mapa de la Confluencia proyectado en una pan
 
 —¿El pasaje de Drake? Corrientes que cambiaban de dirección.
 
-—Clima impredecible.
+»Clima impredecible.
 
-—Cartografía imperfecta.
+»Cartografía imperfecta.
 
-—Fondos peligrosos.
+»Fondos peligrosos.
 
-—Si cometías un error, el océano te lo explicaba inmediatamente.
+»Si cometías un error, el océano te lo explicaba inmediatamente.
 
 Patel observó el mapa.
 
@@ -995,6 +1011,8 @@ El silencio regresó.
 
 Nadie respondió. No porque estuvieran en desacuerdo. Sino porque aquella respuesta también servía para ellos. Estaban allí porque alguien había abierto una puerta. Y los seres humanos tenían la mala costumbre de querer mirar al otro lado.
 
+---
+
 Un sonido agudo interrumpió a los tripulantes. No es una alarma de gravedad, pero sí algo a lo que prestar atención. Varela dejó la taza sobre la mesa antes incluso de leer el mensaje.
 
 —¿Qué ocurre? —preguntó Patel.
@@ -1047,9 +1065,7 @@ Cho ocultó una sonrisa.
 
 —¿Quiere que espere?
 
-—No.
-
-—Entonces vaya.
+—No. Mejor vaya.
 
 Varela ya estaba de pie.
 
@@ -1070,6 +1086,8 @@ El mensaje llegó al comunicador personal del navegante. Maarten escuchó unos s
 Guardó el terminal. Cho dejó la taza sobre la mesa.
 
 —Hora de trabajar.
+
+---
 
 Cuando llegaron al puente, Varela ya había regresado. Había resuelto el incidente de presión y ahora observaba una cascada de diagnósticos procedentes de todos los sistemas, el nuevo generador campo amortiguador y del núcleo de kenogravedad. Aquél era el primer tránsito operacional de la Alejandro tras la actualización. No pensaba perderse ni una lectura.
 
@@ -1219,6 +1237,8 @@ Takoda volvió la vista hacia el ventanal.
 
 —Eso es sorprendentemente honesto.
 
+---
+
 —¿Tiempo hasta Novogord? —interrumpió el capitán.
 
 —Veinticinco minutos, capitán.
@@ -1268,6 +1288,8 @@ Takoda observó de nuevo la pequeña estrella roja.
 —Las estrellas mediocres suelen ser excelentes para hacer negocios.
 
 Como si Novogord hubiera estado esperando escuchar la frase, la consola de comunicaciones emitió una cascada de notificaciones. El oficial de operaciones soltó una breve carcajada.
+
+---
 
 —Acaban de detectarnos.
 
@@ -1376,6 +1398,8 @@ Takoda comenzó a reír.
 —No puedo creerlo.
 
 —Novogord considera que toda nave es un cliente potencial hasta que se demuestre lo contrario. —dijo Varela.
+
+---
 
 Entonces aparecieron cinco nuevas señales, militares. Perfectamente identificadas. Y aproximándose mucho más rápido que los drones comerciales.
 
@@ -1517,7 +1541,7 @@ Cho observó unos segundos la estación que crecía ante ellos.
 
 —Eso tampoco sonó convincente.
 
-—Lo sé.
+---
 
 La Alejandro avanzó entre la Madagascar y la Formosa. Las tres corbetas abrían camino. Detrás de ellas brillaban los muelles, los anillos comerciales y las luces de Novogord. Por primera vez parecía una verdadera expedición.
 
