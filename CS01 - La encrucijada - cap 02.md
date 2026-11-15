@@ -335,7 +335,7 @@ Takoda sonrió.
 
 El kallamita se encogió de hombros.
 
-—Eligieron llamarse exactamente igual que el centro de la galaxia, Sagitario A*. —digo en tono pregonero y exagerando los ademanes.
+—Eligieron llamarse exactamente igual que el centro de la galaxia, Sagitario A\*. —digo en tono pregonero y exagerando los ademanes.
 
 —Coincidencia astronómica.
 
@@ -738,8 +738,6 @@ Helena observó el ir y venir de comerciantes, marineros, turistas y aventureros
 —En realidad sí, me recuerda a mi hogar.
 
 Patel y Yulia intercambiaron una mirada.
-
-
 
 ---
 
