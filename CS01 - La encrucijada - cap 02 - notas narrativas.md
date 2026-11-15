@@ -19,6 +19,25 @@ El lector debe sentir que está conociendo una tripulación viva antes de empeza
 
 ---
 
+Cho - Encuentro con Barbarroja
+Kallamitas - el encuentro, la arrogancia sagitariana
+Yulia - Encuentro Patel y Yulia
+Cho - Conversación inicial
+
+Yulia - Llegada de Helena
+Kallamitas - Expedición monocultural
+Yulia Helena - Motivaciones
+Cho - Cartas y Confluencia
+Kallamitas - El jueo de Maarten
+Cho - Yulia
+Yulia - Demencia espacial
+Cho - Popeye
+Yulia - Paralelismo con Popeye
+Kallamitas - Problema de Honor y Arresto
+Cho - Llamada a Cho
+
+---
+
 ## Trama A: Cho y Barbarroja
 
 ### 1. Separación

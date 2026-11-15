@@ -89,6 +89,8 @@ Varela señaló hacia una avenida iluminada por carteles luminosos.
 
 Y los cuatro continuaron caminando hacia el corazón de la estación.
 
+---
+
 Un grupo de niños apareció entre la multitud. Pequeños. No más altos que la cintura de Takoda. Cabezas grandes. Ojos enormes. Uno de ellos llevaba una caja llena de folletos publicitarios. Otro repartía cupones. Un tercero arrastraba un carrito de bebidas.
 
 —Oh, pobrecitos... —dijo Patel.
@@ -193,11 +195,7 @@ Y desapareció entre la multitud en busca de otra víctima comercial.
 
 —Ese fue un humano.
 
-—Lo sé.
-
-—Entonces no veo el problema.
-
-—Eso es precisamente lo más me preocupa.
+---
 
 Cho abandonó el corredor principal y se internó en una zona mucho más tranquila de Novogord. La mayoría de los visitantes jamás llegaba allí. Las tiendas abiertas al público quedaban cerca de los muelles. Allí se movía el dinero rápido. Más adentro se encontraban los negocios que no necesitaban atraer clientes. El local de Barbarroja pertenecía a esa categoría. La placa exterior era pequeña.
 
@@ -249,91 +247,339 @@ Barbarroja señaló una silla.
 
 —El capitán puede esperar afuera con su escolta.
 
-Takoda fue el primero en detectar el ruido. Provenía de quienes estaban sentados delante. Tres kallamitas ocupaban una mesa cercana a la entrada. Los ojos de uno de ellos se fijaron inmediatamente en los recién llegados. Después en los uniformes. Después en Maarten. El kallamita dejó escapar un resoplido divertido.
+---
 
-—Lo ven. Otro.
+—Si un lugar aparece en un mapa, tarde o temprano aparecerá un humano.
 
-—¿Otro qué?
+El comentario llegó desde una mesa cercana antes incluso de que Maarten terminara de cruzar la puerta. Las risas que siguieron indicaron que aquella conversación llevaba tiempo desarrollándose.
 
-El kallamita señaló discretamente al grupo.
+—O peor —añadió otra voz—. Un sagitariano humano.
 
-—Humano.
+Las carcajadas se extendieron por varias mesas.
 
-Los otros observaron unos segundos. Luego asintieron.
+Maarten miró a Takoda.
 
-—Claro.
+—Creo que hablan de nosotros.
 
-—Era cuestión de tiempo.
+—Es una posibilidad remota.
 
-Takoda intercambió una mirada con Patel.
+—Sí. Apenas nos señalaron.
 
-—Tengo la sensación de que estamos siendo insultados.
+Uno de los kallamitas levantó su vaso a modo de saludo. La especie era inconfundible incluso para quien nunca hubiera visto una. Bajos y anchos de hombros, con una complexión que parecía diseñada para trabajar piedra o cargar motores de fusión. Sus rostros estaban dominados por frentes amplias y ojos pequeños muy separados. Pequeñas crestas óseas recorrían las sienes y desaparecían bajo el cabello oscuro.
 
-—Todavía no —dijo Varela—. Creo que apenas están calentando.
+—No es personal.
 
-Los kallamitas parecieron apreciar el comentario. Uno de ellos levantó su vaso.
+—Dejalos, lo tomarán como los sagitarianos que son.
 
-—Existe un viejo dicho: Si un lugar aparece en un mapa, tarde o temprano aparecerá un humano.
+Aquello provocó otra ronda de risas. Takoda señaló una mesa libre.
 
-Algunas mesas cercanas rieron. Maarten realizó una pequeña inclinación de cabeza.
+—Estoy empezando a entender por qué nadie nos invita a las misiones diplomáticas.
 
-—Parece más a observación que a insulto.
+—¿Porque siempre tenemos razón?
 
-—Es ambas cosas.
+—No creo que ese sea el motivo.
 
-—Y a veces ocurre algo peor.
+Los kallamitas intercambiaron miradas de absoluta satisfacción.
 
-—¿Peor que un humano?
+Maarten observó el local.
 
-—Mucho peor.
+—Nunca había estado aquí.
 
-El kallamita señaló el uniforme de Maarten.
+—Lo notamos.
 
-—Un sagitariano humano.
+—¿Por el uniforme?
 
-—¿Y qué problema tienen con la Alianza Sagitario?
+—Por el uniforme.
 
-—Ninguno.
+—¿Y qué tiene de malo?
 
-—Eso ha sonado convincente.
+El kallamita apoyó los codos sobre la mesa.
 
-—Es que no es un problema.
+—Nada.
 
-—Es una costumbre.
+—Eso suena a que hay un "pero".
 
-—Llegan con sus uniformes impecables.
+—Con ustedes siempre hay un "pero".
 
-—Sus protocolos impecables.
+Señaló el emblema bordado en la manga de Maarten.
 
-—Sus naves impecables.
+—Míralos.
 
-—Y sus opiniones impecables.
+—¿A quiénes?
 
-Varias mesas cercanas asintieron. Takoda cruzó los brazos.
+—A ustedes.
 
-—Parecemos causar una impresión memorable.
+»Uniformes impecables.
 
-—Oh, la causan.
+»Postura impecable.
 
-El kallamita tomó un sorbo.
+»Protocolos impecables.
 
-—Además eligieron llamarse Sagitario.
+»Naves impecables.
+
+»Todo muy impresionante.
+
+»Hasta para opinar son correctitos.
+
+Takoda sonrió.
+
+—Gracias.
+
+—No era un cumplido.
+
+—Lo imaginé.
+
+—Y encima se llaman Sagitario.
+
+—Porque fue allí donde empezó la Alianza. ¿Cuál sería el problema?
+
+El kallamita se encogió de hombros.
+
+—Eligieron llamarse exactamente igual que el centro de la galaxia, Sagitario A*. —digo en tono pregonero y exagerando los ademanes.
+
+—Coincidencia astronómica.
+
+—Conveniencia patriótica. Se creen el centro del universo.
+
+Uno de los kallamitas observó al grupo unos segundos antes de negar con la cabeza.
+
+—Lo que jamás lo entenderé, es esa cosa de la curiosidad humana.
+
+—Nos lo dicen a menudo.
+
+—Cuando una especie sensata encuentra una región donde desaparecen naves, evita la región.
+
+»Cuando una especie sensata encuentra algo desconocido, lo estudia desde lejos.
+
+—Pero si sos humano se rellenan formularios y compran pasajes.
+
+—Para nosotros eso también tiene lógica.
+
+—No. Eso tiene presupuesto.
+
+Esta vez las carcajadas fueron generales. Maarten se detuvo. Takoda suspiró.
+
+—¿Y si mejor nos vamos? —propuso Varela.
+
+—Si has venido a demostrar que los humanos pueden sobrevivir a la Confluencia, ésa es su problema.
+
+Maarten fue el primero en apartar la vista del grupo de kallamitas.
+
+—¿Qué es eso?
+
+Señaló una mesa situada junto al ventanal. Los kallamitas giraron la cabeza.
+
+—Un tablero.
+
+—Eso ya lo he deducido.
+
+—Entonces vas por delante de muchos visitantes.
+
+La superficie estaba dividida por una compleja red de líneas curvas que se entrecruzaban formando cientos de regiones irregulares. Sobre ella descansaban fichas negras y blancas de idéntico tamaño.
+
+Maarten se acercó.
+
+—No lo reconozco.
+
+—Porque no eres kallamita.
+
+—Correcto.
+
+—Problema resuelto.
+
+Takoda observó el tablero por encima de su hombro.
+
+—Parece una variante de las damas o del Go.
+
+Los kallamitas emitieron sonidos de desaprobación.
+
+—No.
+
+—Ni remotamente.
+
+—Entonces se parece mucho.
+
+—Y una lanzadera se parece mucho a una roca si la observas desde suficiente distancia.
+
+—Quizás.
+
+Maarten siguió estudiando la posición. No preguntó las reglas. No preguntó quién iba ganando. Simplemente observó. Uno de los kallamitas entrecerró los ojos.
+
+—Eso es exactamente lo que hacen ustedes.
+
+—¿El qué?
+
+—Mirar algo que no entienden.
 
 —¿Y?
 
-—El centro de la galaxia. —pregoneó con ademanes exagerados.
+—Y decidir que quieren acercarse más.
 
-El bar estalló en risas subiendo los vasos en tono de brindis.
+—Es una forma de verlo.
 
-—Sagitario A* está allí. Claro.
+—Es un enfoque humano.
 
-El kallamita volvió a sonreír.
+—No le animen.
 
-—Y sin embargo resulta difícil ignorar que una civilización eligiera como nombre precisamente el centro de la galaxia.
+—¿Por qué?
 
-—No nos creemos el centro de la galaxia.
+—Porque ahora mismo está intentando aprender el juego.
 
-—Eso es exactamente lo que diría alguien que nombró su alianza usando el centro de la galaxia.
+El kallamita soltó una carcajada.
+
+—Lleva observándolo treinta segundos.
+
+—Es verdad.
+
+—Eso no es suficiente.
+
+—No sería suficiente pero están hablando de Maarten.
+
+—No puede aprenderlo.
+
+—¿Apostamos?
+
+Maarten continuó estudiando el tablero.
+
+—¿Cuál es el objetivo?
+
+El jugador kallamita sonrió.
+
+—Ah.
+
+—Ya empezamos.
+
+—Al fin una pregunta inteligente.
+
+Se acomodó en la silla.
+
+—Control territorial dinámico.
+
+—Eso no significa nada.
+
+—Correcto.
+
+—Lo sospechaba.
+
+Varela tomó una bebida de la barra y se apoyó cerca.
+
+—¿Cuánto dura una partida?
+
+—Una buena partida.
+
+—Sí.
+
+—Varias horas.
+
+—Interesante.
+
+—Una excelente partida puede durar días.
+
+—Eso parece ineficiente.
+
+—Eso parece cultura.
+
+Maarten señaló una agrupación de fichas.
+
+—Ésta está perdida.
+
+El silencio fue inmediato. Takoda cerró los ojos. Patel cerró los ojos. Varela sonrió. Los kallamitas miraron el tablero. Después a Maarten. Después otra vez al tablero.
+
+—¿Perdón?
+
+—Esa formación.
+
+—No puede sostener el flanco.
+
+—Si presionas aquí...
+
+Maarten señaló una intersección.
+
+—...pierde acceso a tres regiones.
+
+—Y si responde aquí...
+
+Otra ficha.
+
+—...entonces sacrificas menos material y obtienes la misma ventaja.
+
+Nadie habló durante varios segundos.
+
+—Lleva mirando el tablero menos de dos minutos.
+
+El kallamita volvió a mirar el tablero. Por primera vez ya no parecía divertido. Parecía preocupado.
+
+—Siéntate.
+
+Maarten sonrió.
+
+—¿Es una invitación?
+
+—No.
+
+—¿Un desafío?
+
+—Todavía no.
+
+—Entonces ¿qué es?
+
+El kallamita comenzó a ordenar las piezas.
+
+—Estoy intentando decidir si eres un genio o si sólo has tenido suerte.
+
+Maarten ocupó la silla frente al tablero.
+
+—Podemos averiguarlo juntos.
+
+---
+
+Mientras Maarten y Varela se acomodaban frente al tablero Takoda discutía con los kallamitas sobre el significado de arrogancia. Patel no estaba interesada en demostraciones de superioridad y decidió dejarles la competición. Había visto suficientes versiones de aquella escena a lo largo de su carrera como para adivinar el desenlace. Primero los desafíos. Después las apuestas. Finalmente alguien haría algo estúpido. Buscó entonces una mesa más tranquila. Entonces notó la mujer humana que ocupaba sola una mesa cercana al ventanal. Uniforme sagitariano. Cabello oscuro recogido sin demasiado cuidado. Un vaso en una mano. No parecía aburrida. Tampoco relajada. Parecía una persona atrapada en algún pensamiento distante. Patel calculó que tendría una edad similar a la suya. Quizá algo más. Había algo familiar en ella. No en su rostro, en su actitud. La postura de alguien acostumbrado a los hospitales. A largas guardias y dar malas noticias. Patel tomó su bebida y señaló la silla vacía frente a la mujer.
+
+—¿Le molesta si me siento?
+
+La mujer alzó la vista. Tardó un segundo en regresar desde dondequiera que hubiera estado.
+
+—Depende.
+
+—¿De qué?
+
+Una leve sonrisa apareció en la comisura de sus labios.
+
+—De si viene a hablar de política, religión o de la Confluencia.
+
+Patel dejó su vaso sobre la mesa.
+
+—Tenía pensado empezar con el clima.
+
+—Perfecto. El clima todavía no ha intentado matarnos.
+
+—Démosle algo de tiempo.
+
+—Es Novogord. Nunca se sabe.
+
+Patel tomó asiento. Durante unos segundos ambas observaron el movimiento constante de la estación detrás del ventanal. Naves entrando y saliendo, mercaderes, turistas. Aventureros con demasiado optimismo.
+
+—¿Forma parte de la expedición? —preguntó finalmente Patel.
+
+—¿Tan evidente es?
+
+—Por el uniforme. Y porque mira esa anomalía interestelar como si le debiera dinero.
+
+—Ésa es una observación inquietantemente específica.
+
+—Soy médica, Dra Patel.
+
+—Ahora todo tiene sentido. También soy doctora Yulia Melnyk.
+
+—Ya veo por qué eligió una mesa alejada de la gente.
+
+—Y yo entiendo por qué decidió sentarse aquí.
+
+Patel señaló discretamente hacia el otro extremo del local. Donde Maarten ya discutía algo sobre el tablero mientras varios kallamitas comenzaban a rodearlo.
+
+—Digamos que conozco los síntomas tempranos de un desastre social.
+
+—Sí.
 
 ---
 
@@ -359,15 +605,7 @@ Cho observó la montaña de cajas que ocupaba buena parte del local.
 
 —Hace años que intento conseguir que alguien me pague por hacer exactamente eso.
 
-Cho soltó una pequeña risa.
-
-Era extraño.
-
-Llevaba menos de cinco minutos allí.
-
-Y por primera vez en semanas sentía que no estaba trabajando.
-
-Barbarroja desapareció detrás de una estantería.
+Cho soltó una pequeña risa. Era extraño. Llevaba menos de cinco minutos allí. Y por primera vez en semanas sentía que no estaba trabajando. Barbarroja desapareció detrás de una estantería.
 
 —¿Café?
 
@@ -383,13 +621,7 @@ Barbarroja desapareció detrás de una estantería.
 
 —Todavía estamos investigándolo.
 
----
-
-Barbarroja regresó con dos tazas.
-
-Las dejó sobre una mesa ocupada por mapas enrollados, herramientas de navegación y algo que parecía un fragmento de estatua.
-
-Cho señaló la pieza.
+Barbarroja regresó con dos tazas. Las dejó sobre una mesa ocupada por mapas enrollados, herramientas de navegación y algo que parecía un fragmento de estatua. Cho señaló la pieza.
 
 —¿Qué es eso?
 
@@ -407,17 +639,7 @@ Cho señaló la pieza.
 
 —Gracias.
 
-—No era un cumplido.
-
-—También colecciono esos.
-
----
-
-Cho tomó un sorbo.
-
-Era peor de lo esperado.
-
-Lo cual significaba que era auténtico.
+Cho tomó un sorbo. Era peor de lo esperado. Lo cual significaba que era auténtico.
 
 —¿Cómo está Novogord?
 
@@ -425,29 +647,15 @@ Lo cual significaba que era auténtico.
 
 —Eso no dice mucho.
 
-—Exactamente.
-
 Barbarroja se acomodó contra una estantería.
 
-—Siguen llegando comerciantes.
+—Siguen llegando comerciantes, aventureros. Idiota bah.
 
-—Siguen llegando aventureros.
-
-—Siguen llegando idiotas.
-
-—Y compradores.
+—¿Compradores?
 
 —Sobre todo compradores.
 
-Guardaron silencio unos segundos.
-
-Aquello era Novogord.
-
-La estación cambiaba todos los días.
-
-Y al mismo tiempo nunca cambiaba.
-
----
+Guardaron silencio unos segundos. Aquello era Novogord. La estación cambiaba todos los días. Y al mismo tiempo nunca cambiaba.
 
 —Escuché que te dieron una nave importante.
 
@@ -475,25 +683,87 @@ Aquello sonaba exactamente igual que Varela.
 
 ---
 
-Y aquí haría la transición hacia las cartas:
+—¿Psicología clínica? —preguntó Patel.
 
-Barbarroja observó la expresión de Cho durante unos segundos.
+—Principalmente.
 
-Luego caminó hasta un armario cerrado.
+—Debe de ser agotador.
 
-Abrió un cajón.
+Yulia dejó escapar una pequeña risa.
 
-Extrajo un pequeño paquete.
+—Los cirujanos dicen que los psicólogos escuchan problemas.
 
-Papel.
+—¿Y es cierto?
 
-Sobres reales.
+—No.
 
-Nada digital.
+Tomó un sorbo de su bebida.
 
-Nada práctico.
+—Escuchamos versiones incompatibles de la realidad.
 
-Cho sintió que el humor abandonaba lentamente la habitación.
+—Eso suena mucho peor.
+
+—Lo es.
+
+Patel estaba a punto de responder cuando una sombra cayó sobre la mesa.
+
+—Perfecto.
+
+Ambas levantaron la vista. Una mujer sostenía una bandeja, una mochila y una expresión que sugería que había recorrido media estación sin encontrar lo que buscaba.
+
+—Una médica y una psicóloga.
+
+Señaló la única silla vacía.
+
+—Por favor, díganme que este asiento está libre.
+
+—Depende —dijo Yulia.
+
+—¿De qué?
+
+—De cuánto le gusten las conversaciones incómodas.
+
+La recién llegada dejó la bandeja sobre la mesa.
+
+—Son mi especialidad.
+
+Patel señaló la silla.
+
+—Entonces encajará perfectamente.
+
+La mujer tomó asiento.
+
+—Dra. Helena Arce.
+
+—Meera Patel.
+
+—Yulia.
+
+Helena pareció relajarse inmediatamente.
+
+—Excelente.
+
+Miró de una a otra.
+
+—Ya no tendré que fingir interés por las discusiones sobre motores, rutas comerciales ni estrategias de juego.
+
+Desde la zona de los kallamitas llegó una nueva ronda de aplausos. Las tres miraron en aquella dirección.
+
+—¿Qué están haciendo? —preguntó Helena.
+
+—Compitiendo.
+
+—¿Por qué?
+
+—Porque alguien les dio una oportunidad.
+
+Helena asintió lentamente.
+
+—Sí. Eso suena humano.
+
+---
+
+Barbarroja observó la expresión de Cho durante unos segundos. Luego caminó hasta un armario cerrado. Abrió un cajón. Extrajo un pequeño paquete. Papel. Sobres reales. Nada digital. Nada práctico. Cho sintió que el humor abandonaba lentamente la habitación.
 
 —¿Nuevas?
 
