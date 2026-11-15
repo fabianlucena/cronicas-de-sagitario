@@ -705,61 +705,41 @@ Tomó un sorbo de su bebida.
 
 —Lo es.
 
-Patel estaba a punto de responder cuando una sombra cayó sobre la mesa.
+Patel estaba a punto de responder cuando una sombra cayó sobre la mesa. Una mujer apareció junto a la mesa con una bandeja en una mano.
 
-—Perfecto.
+—¿Les importa si me siento? Empiezo a sospechar que toda la estación decidió venir aquí esta noche.
 
-Ambas levantaron la vista. Una mujer sostenía una bandeja, una mochila y una expresión que sugería que había recorrido media estación sin encontrar lo que buscaba.
+Patel miró la silla vacía.
 
-—Una médica y una psicóloga.
+—Adelante.
 
-Señaló la única silla vacía.
+La recién llegada se dejó caer en el asiento con evidente alivio.
 
-—Por favor, díganme que este asiento está libre.
-
-—Depende —dijo Yulia.
-
-—¿De qué?
-
-—De cuánto le gusten las conversaciones incómodas.
-
-La recién llegada dejó la bandeja sobre la mesa.
-
-—Son mi especialidad.
-
-Patel señaló la silla.
-
-—Entonces encajará perfectamente.
-
-La mujer tomó asiento.
-
-—Dra. Helena Arce.
+—Gracias.
 
 —Meera Patel.
 
 —Yulia.
 
-Helena pareció relajarse inmediatamente.
+—Helena Arce.
 
-—Excelente.
+Durante unos segundos las tres permanecieron en silencio observando el local. Desde la zona del tablero llegó una nueva ronda de aplausos y protestas.
 
-Miró de una a otra.
+Helena siguió el ruido con la mirada.
 
-—Ya no tendré que fingir interés por las discusiones sobre motores, rutas comerciales ni estrategias de juego.
+—Supongo que esa es la razón por la que no quedaban mesas.
 
-Desde la zona de los kallamitas llegó una nueva ronda de aplausos. Las tres miraron en aquella dirección.
+—Una de ellas —dijo Yulia.
 
-—¿Qué están haciendo? —preguntó Helena.
+—¿No le gusta el lugar? —preguntó Patel.
 
-—Compitiendo.
+Helena observó el ir y venir de comerciantes, marineros, turistas y aventureros.
 
-—¿Por qué?
+—En realidad sí, me recuerda a mi hogar.
 
-—Porque alguien les dio una oportunidad.
+Patel y Yulia intercambiaron una mirada.
 
-Helena asintió lentamente.
 
-—Sí. Eso suena humano.
 
 ---
 
