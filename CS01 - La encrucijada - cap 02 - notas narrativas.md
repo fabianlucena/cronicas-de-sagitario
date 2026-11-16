@@ -19,22 +19,21 @@ El lector debe sentir que está conociendo una tripulación viva antes de empeza
 
 ---
 
-Cho - Encuentro con Barbarroja
-Kallamitas - el encuentro, la arrogancia sagitariana
-Yulia - Encuentro Patel y Yulia
-Cho - Conversación inicial
-
-Yulia - Llegada de Helena
-Kallamitas - Expedición monocultural
-Yulia Helena - Motivaciones
-Cho - Cartas y Confluencia
-Kallamitas - El jueo de Maarten
-Cho - Yulia
-Yulia - Demencia espacial
-Cho - Popeye
-Yulia - Paralelismo con Popeye
-Kallamitas - Problema de Honor y Arresto
-Cho - Llamada a Cho
+- [x] Cho - Encuentro con Barbarroja
+- [x] Kallamitas - el encuentro, la arrogancia sagitariana
+- [x] Yulia - Encuentro Patel y Yulia
+- [x] Cho - Conversación inicial
+- [x] Yulia - Llegada de Helena
+- [x] Expedición monoespecie.
+- [x] Yulia Helena - Motivaciones
+- [x] Cho - Cartas y Confluencia
+- [x] Kallamitas - El juego de Maarten
+- [x] Cho - Yulia
+- [x] Yulia - Demencia espacial
+- [x] Cho - Popeye
+- [x] Yulia - Paralelismo con Popeye
+- [x] Kallamitas - Problema de Honor y Arresto
+- [x] Cho - Llamada a Cho
 
 ---
 

@@ -657,6 +657,18 @@ Barbarroja se acomodó contra una estantería.
 
 Guardaron silencio unos segundos. Aquello era Novogord. La estación cambiaba todos los días. Y al mismo tiempo nunca cambiaba.
 
+—¿Recuerdas cuando bebíamos algo mejor que esto?
+
+—No podíamos permitírnoslo.
+
+—Tampoco podemos ahora.
+
+Cho soltó una pequeña risa.
+
+—Eso explicaría muchas decisiones financieras de nuestra juventud.
+
+—Y también la mayoría de las sentimentales.
+
 —Escuché que te dieron una nave importante.
 
 —La Alejandro.
@@ -737,20 +749,1092 @@ Helena observó el ir y venir de comerciantes, marineros, turistas y aventureros
 
 —En realidad sí, me recuerda a mi hogar.
 
-Patel y Yulia intercambiaron una mirada.
+Patel y Yulia intercambiaron una mirada, Helena continuó:
+
+—Crecí en un lugar parecido. Estaciones de paso, comerciantes, transportistas, gente llegando y marchándose constantemente.
+
+—Eso suena agotador —dijo Patel.
+
+—También educativo. Aprendes mucho observando a la gente. Quién miente. Quién tiene miedo. Quién intenta impresionar a alguien. Quién está a punto de cometer una estupidez.
+
+—¿A si?
+
+Desde el otro extremo del local llegó una nueva ovación alrededor de la mesa de juego.
+
+Helena miró en aquella dirección.
+
+—Por ejemplo, apostaría una cantidad irresponsable de dinero a que algo va a salir mal allí.
+
+Patel soltó una risa.
+
+—Entonces ya conoce a mi tripulación.
+
+—¿Forma parte de la expedición?
+
+—Por desgracia, sí.
+
+—Mis condolencias.
+
+Helena tomó un sorbo de su bebida.
+
+—He conocido varios miembros de la expedición que se embarcan hoy, extrañamente todos humanos.
+
+—Es verdad —admitió Patel.
+
+—Me resulta curioso.
+
+—¿Por qué?
+
+Helena señaló vagamente los muelles tras el ventanal.
+
+—Porque he visto comerciantes de casi todas las especies, media galaxia parece pasar por esta estación.
+
+—Y, sin embargo...
+
+—Y, sin embargo, todos los que se preparan para entrar en la Confluencia son humanos.
+
+Desde el otro extremo del local se escuchó una voz:
+
+—¡Doble o nada!
+
+Siguieron varios aplausos y protestas.  Las tres mujeres giraron la cabeza. Helena cerró los ojos un instante.
+
+—Esto está escalando.
+
+—Sí —dijo Patel—. Y ni siquiera quiero saber cómo.
+
+Helena observó la multitud reunida alrededor del tablero.
+
+—Supongo que tiene sentido.
+
+—¿El qué? —preguntó Yulia.
+
+—Que sean humanos.
+
+—¿Tan mala opinión tiene de nosotros?
+
+—No. Al contrario.
+
+Helena apoyó los codos sobre la mesa.
+
+—Si alguien anuncia que piensa enfrentarse a los narimis y luego internarse en la Confluencia, la mayoría de las especies inteligentes se alejan discretamente.
+
+Patel asintió.
+
+—Mientras que los humanos preguntamos cuándo sale la nave.
+
+Yulia dejó escapar una risa.
+
+—Eso suena sospechosamente cierto.
+
+—Porque lo es.
+
+—Un momento —dijo Patel—. Nosotras también estamos aquí.
+
+Helena sonrió.
+
+—Sí.
+
+—Entonces, según tu teoría...
+
+—Según mi teoría, ninguna de las tres está cualificada para juzgar las decisiones de los demás.
+
+Yulia levantó su vaso.
+
+—Por fin una evaluación psicológica con la que puedo estar de acuerdo.
+
+—Yo soy médica, no psicóloga.
+
+—Era una metáfora.
+
+—Las metáforas también deberían pasar revisión clínica.
+
+Las tres compartieron una breve risa.
+
+—Entonces —preguntó Yulia—, si no has venido a juzgarnos, ¿Qué haces aquí?
+
+Helena sostuvo el vaso unos segundos antes de responder.
+
+—Busco a alguien.
+
+—¿Familia?
+
+Helena negó con la cabeza.
+
+—Al embajador narimi Virgilio Aresh.
+
+Patel frunció ligeramente el ceño.
+
+—Has venido hasta aquí por un diplomático.
+
+—Por un historiador.
+
+—Es lo mismo.
+
+—Bueno, en su caso tal vez, sí. Pero me interesa más en su rol de historiador.
+»Llevábamos casi veinte años intercambiando correspondencia.
+
+—¿Eran amigos?
+
+Helena tardó unos segundos en responder.
+
+—No estoy segura. Nunca llegamos a conocernos en persona.
+
+Yulia arqueó una ceja.
+
+—¿Y aun así cruzas media galaxia para buscarlo?
+
+—Porque algunas personas son difíciles de reemplazar.
+
+Patel apoyó los codos sobre la mesa.
+
+—¿Tan importante era?
+
+—No siento que haya desaparecido una persona.
+
+Helena bajó la vista hacia su vaso.
+
+—Siento que ha desaparecido una biblioteca.
 
 ---
 
-Barbarroja observó la expresión de Cho durante unos segundos. Luego caminó hasta un armario cerrado. Abrió un cajón. Extrajo un pequeño paquete. Papel. Sobres reales. Nada digital. Nada práctico. Cho sintió que el humor abandonaba lentamente la habitación.
+Barbarroja observó la expresión de Cho durante unos segundos. Luego caminó hasta un armario cerrado.
+Abrió un cajón. Extrajo un pequeño dispositivo.
 
-—¿Nuevas?
+—Toma.
+
+Lo dejó sobre el mostrador.
+
+—Los informes que pediste. Tráfico, rumores, registros de tránsito y todo lo que conseguí sobre los últimos movimientos cerca de la Confluencia.
+
+Cho tomó la memoria.
+
+—Gracias.
+
+—No me agradezcas todavía. Tuve que escuchar a tres comerciantes, dos contrabandistas retirados y un imbécil que insistía en que la Confluencia es una puerta interdimensional hacia una civilización de energía pura.
+
+Cho guardó la memoria.
+
+—¿Y si tenía razón?
+
+—Entonces era un imbécil con suerte.
+
+Cho sonrió.
+
+—Eso sigue siendo mejor que la mayoría de las teorías de Novogord.
+
+—No creas. Por aquí todavía ganan votos los dioses estelares.
+
+—Eso explica muchas cosas.
+
+Barbarroja se apoyó contra el mostrador.
+
+—¿Hace mucho que no lo visitas?
+
+La pregunta llegó sin aviso. Cho no respondió inmediatamente.
+
+—He estado ocupado.
+
+—Claro.
+
+—Estamos preparando una expedición.
+
+—Y antes de eso estabas ocupado con otra cosa y antes con otra.
+
+Cho suspiró.
+
+—Dime lo que tengas que decir.
+
+—Que siempre encuentras alguna excusa para no ir.
+
+Por primera vez algo de la sonrisa desapareció del rostro de Cho.
+
+—No es tan simple.
+
+—Nunca es simple.
+
+Barbarroja lo observó unos segundos.
+
+—¿Ya no vas siquiera por ver a Yulia?
+
+Cho levantó una ceja.
+
+—¿Yulia?
+
+—No te hagas el sorprendido.
+
+—Estoy sorprendido.
+
+—Mentira.
+
+Cho negó con la cabeza.
+
+—Es una buena profesional.
+
+—No estaba hablando de su trabajo.
+
+El silencio duró apenas un segundo. Barbarroja sonrió.
+
+—No lo niegues. Me di cuenta hace tiempo.
+
+—Te imaginas cosas.
+
+—Y casualmente ahora va contigo en la expedición.
+
+Cho abrió la boca para responder. No encontró una respuesta especialmente convincente. Eso pareció divertir muchísimo a Barbarroja.
+
+—Te gustan las emociones, Salmón. Creo que todavía tienes esperanza.
+
+—Voy a enfrentarme a una anomalía espacial posiblemente hostil.
+
+—Justamente.
+
+—Eso no tiene sentido.
+
+—Y, sin embargo, llevas a bordo a la única mujer de la galaxia que probablemente pueda analizar todos tus problemas antes de que abandones el primer sistema estelar.
+
+---
+
+Desde el otro extremo del local llegó una nueva oleada de voces. Las tres mujeres giraron la cabeza. Alrededor del tablero ya no quedaban jugadores sentados. Varios kallamitas permanecían de pie, observando la posición con los brazos cruzados. Otros discutían en voz baja. Ninguno parecía especialmente satisfecho con lo que estaba ocurriendo.
+
+—Eso ya no parece una partida amistosa —comentó Helena.
+
+—No —respondió Patel—. Creo que hemos pasado la fase amistosa hace bastante rato.
+
+Yulia observó la multitud unos segundos.
+
+—Los kallamitas son muy competitivos.
+
+—¿Y él? —preguntó Helena señalando a Maarten.
+
+—Sagitariano.
+
+Desde la mesa del juego alguien protestó con evidente indignación.
+
+—Tres juegos consecutivos, es indignante.
+
+—¿Siempre son así? —preguntó Helena.
+
+—Los humanos, sí —respondió Patel.
+
+—Los kallamitas, también —añadió Yulia.
+
+Durante unos segundos contemplaron el espectáculo.
+
+—Bueno, tú estás aquí porque eres la doctora en jefe, y tú ¿por qué? —dijo finalmente Helena.
+
+—Demencia espacial.
+
+Helena arqueó una ceja.
+
+—¿Todavía utilizan ese nombre?
+
+—Porque todavía nadie ha encontrado otro mejor.
+
+Su mirada se desplazó hacia el ventanal, hacia la oscuridad más allá de los muelles.
+
+El ruido de la mesa volvió a elevarse. Un kallamita golpeó la superficie con demasiada energía. Otro parecía discutir una jugada. Maarten, por el contrario, continuaba sentado con una tranquilidad irritante. Patel negó con la cabeza.
+
+—Parece que ya son cuatro. Comienzo a sospechar que nosotros también estamos estudiando una forma de enfermedad mental.
+
+—No —dijo Yulia, observando el grupo—.
+»Eso es simplemente un humano convencido de que tiene razón.
+»He visto situaciones peores.
+
+—¿Relacionadas con la Confluencia?
+
+—Casi siempre.
+
+Helena apoyó el vaso sobre la mesa.
+
+—Entonces de verdad crees que existe alguna relación con la demencia espacial.
+
+Yulia tardó un momento en responder.
+
+—Creo que llevamos siglos observando el mismo fenómeno desde demasiada distancia.
+
+—¿Y la Confluencia?
+
+—Si existe un origen común, todo apunta hacia allí.
+
+—¿Como una zona cero?
+
+—Como el lugar donde deberíamos empezar a buscar.
+
+Helena permaneció pensativa unos segundos.
+
+—Curiosamente, ayer conocí a alguien que estaría de acuerdo contigo.
+
+Patel levantó la vista.
+
+—¿Ah sí?
+
+—Un hombre singular, cuando menos.
+
+—Eso no reduce demasiado las opciones en Novogord.
+
+—Era humano.
+»Educado.
+»Inteligente.
+»Perfectamente funcional.
+»Y completamente convencido de que escuchaba voces.
+
+—¿Qué clase de voces?
+
+—No estoy segura.
+»Era una especie de misionero.
+
+—¿Religioso?
+
+—No exactamente.
+»Hablaba como un predicador. Como alguien convencido de haber descubierto algo importante.
+»Pero no intentaba pedir dinero, ni seguidores, ni favores.
+»Parecía querer advertir a la gente.
+
+—¿Advertirlos de qué? —preguntó Patel.
+
+—Depende del momento de la conversación.
+»A veces hablaba de libertad.
+»A veces de la consciencia.
+»Una vez pasó casi diez minutos intentando explicarme que las civilizaciones inteligentes terminan construyendo sus propias prisiones.
+
+Patel arqueó una ceja.
+
+—Eso sí que suena a Novogord.
+
+—Eso pensé yo.
+
+—¿Y las voces?
+
+Helena miró a Yulia.
+
+—Decía que no eran exactamente voces.
+
+—¿Entonces?
+
+—Que ran como preguntas.
+
+—¿Preguntas? —repitió Patel.
+
+—Según él, no las escuchaba con los oídos.
+»Aparecían en su cabeza.
+»Como ideas, intuiciones o algo así.
+»Como si alguien estuviera guiando lentamente sus pensamientos hacia determinados temas.
+
+Yulia ya no parecía relajada.
+
+—¿Hace cuánto tiempo lo conociste?
+
+—Ayer.
+
+—¿Y parecía desorientado?
+
+—No.
+
+—¿Confuso?
+
+—No.
+
+—¿Paranoico?
+
+—Tampoco.
+
+—¿Agresivo?
+
+—No, para nada.
+»Era inteligente. Educado. Incluso agradable.
+»Lo único extraño era que, de vez en cuando, se detenía en mitad de una frase.
+
+—¿Se detenía?
+
+—Como si algo más le llamara la atención como si estuviera escuchando algo, pero su mirada quedaba perdida.
+
+---
+
+Barbarroja permaneció inmóvil unos segundos. Después volvió a abrir el cajón. Esta vez sacó un paquete, eran sobres de papel auténtico. Cho sintió que el humor abandonaba lentamente la habitación. Barbarroja los sostuvo en la mano un momento y, aun de espaldas, preguntó:
+
+—¿Qué nos pasó?
+
+Cho observó los sobres. Reconoció la letra incluso desde allí. Habían pasado años. Demasiados años. Y aun así la reconoció al instante.
+
+—Maduramos.
+
+—Recuerdo a tres amigos navegando por la galaxia con sueños de riqueza y jovencitas de dudosa moralidad. La pasamos bien, muy bien.
+»Ahora pareces empeñado en demostrar que el horizonte te debe una explicación.
+
+—Estoy haciendo mi trabajo, algunos dicen que es responsabilidad.
+
+—Eso es exactamente lo que diría un capitán. ¿Dónde está mi amigo? ¿Nuestro amigo Salmón?
+
+Cerró el cajón. El nombre quedó suspendido entre ellos. Hacía mucho que nadie lo usaba. En Novogord todavía sobrevivía. Como otras cosas viejas que se negaban a desaparecer. Barbarroja se volvió por fin.
+
+—¿Cuándo fue la última vez que hiciste algo porque te hacía feliz?
+
+Cho soltó una breve carcajada.
+
+—No todos podemos pasarnos la vida comprando basura.
+
+—Antigüedades.
+
+—Basura cara.
+
+—Eso sigue siendo mejor que convertir la culpa en una profesión.
+
+La sonrisa desapareció lentamente del rostro de Cho. Ninguno de los dos habló durante unos segundos. Barbarroja dejó los sobres sobre la mesa. Con cuidado, como si fueran frágiles. Quizá lo eran. Con suavidad colocó la mano extendida sobre ellos como signo de despedida y se los acerco a Cho.
+
+—Llegan cada cierto tiempo —dijo finalmente—. Algunas tienen meses, otras, años.
+
+Cho no extendió la mano.
+
+—Pensé que se habían terminado.
+
+—Yo también.
+»Pero Popeye nunca fue bueno aceptando cuándo debía detenerse.
+
+El nombre produjo el mismo efecto que siempre. Un peso. Una ausencia. Algo sentado con ellos a la mesa.
+
+—¿Las leíste?
+
+—No.
+
+Cho levantó una ceja.
+
+—¿Ni una sola?
+
+—Las dirige a ti.
+
+Barbarroja señaló el paquete.
+
+—Además, alguien en este grupo debería respetar la privacidad ajena.
+
+Cho observó los sobres unos segundos.
+
+—¿Lo has visto?
 
 Barbarroja asintió.
 
-—Algunas.
+—Cada uno o dos meses.
 
-Las dejó sobre la mesa.
+—¿Y?
 
-Y recién entonces preguntó:
+—No ha empeorado.
 
-—¿Vas a entrar?
+Cho permaneció en silencio.
+
+—Eso no suena demasiado alentador.
+
+—Tampoco suena mal.
+
+Barbarroja tomó asiento.
+
+—Los antipsicóticos ya no le hacen efecto.
+
+—¿Se los quitaron?
+
+—Hace tiempo.
+
+Cho apoyó una mano sobre los sobres sin llegar a cogerlos.
+
+—¿Cómo está?
+
+Barbarroja tardó unos segundos en responder.
+
+—Le cuesta mantener una conversación.
+»A veces parece que somos tres los que estamos hablando cuando solamente está conmigo.
+»Otras se queda callado durante minutos.
+»Mirando cualquier cosa.
+»Pensando.
+
+Cho bajó la vista.
+
+—Ya no ríe.
+
+Barbarroja no respondió. No hacía falta.
+
+—Siempre se reía.
+
+—Lo sé.
+
+—Incluso cuando no debía.
+
+—Sobre todo cuando no debía.
+
+El silencio regresó una vez más.
+
+—Creo que nunca salió de allí.
+
+Barbarroja levantó la vista.
+
+—¿Qué?
+
+—De la Confluencia.
+
+Cho observó los sobres.
+
+—Creo que una parte de él nunca volvió.
+
+El viejo comerciante permaneció inmóvil, levantó su taza.
+
+—Que las estrellas recuerden...
+
+La reacción fue inmediata.
+
+—No vuelvas a decir eso en mi presencia.
+
+La dureza de la respuesta los sorprendió a ambos. Cho tardó un segundo en recuperar el control.
+
+—No está muerto.
+
+Barbarroja asintió lentamente.
+
+—Lo sé.
+
+—Entonces no hables de él como si lo estuviera.
+
+Ninguno de los dos dijo nada durante varios segundos. Finalmente Barbarroja suspiró.
+
+—No fue tu culpa, Salmón.
+
+Cho cerró los ojos.
+
+—No empieces.
+
+—Tomó su decisión.
+
+—No lo sabes.
+
+—Claro que lo sé.
+
+—No estabas allí.
+
+Barbarroja sostuvo su mirada.
+
+—Ni tú tampoco.
+
+---
+
+Yulia bajó la mirada hacia su vaso.
+
+—Conozco esos síntomas.
+
+Helena intercambió una mirada con Patel.
+
+—¿De verdad existe algo parecido?
+
+Yulia asintió lentamente.
+
+—Lo llamamos demencia espacial.
+
+—Con que eso es.
+
+—Es un nombre terrible.
+»Pero sigue siendo el mejor que tenemos.
+
+Patel apoyó los codos sobre la mesa.
+
+—¿Y qué produce exactamente?
+
+Yulia tardó unos segundos en responder.
+
+—Ojalá lo supiéramos.
+»Dificultades de concentración.
+»Pensamiento obsesivo.
+»Alteraciones perceptivas.
+»Alucinaciones auditivas en algunos casos.
+»Y, a veces, una sensación persistente de que existe algo más presente en la conversación.
+
+Helena permaneció inmóvil.
+
+—Como si hubiera otra persona en la habitación.
+
+—Sí.
+
+—Eso es exactamente lo que describió.
+
+Yulia asintió.
+
+—No es la primera vez.
+
+—¿Y la causa?
+
+—Nadie lo sabe.
+»Pero la distribución de los casos resulta inquietante.
+
+Helena inclinó ligeramente la cabeza.
+
+—¿Por qué?
+
+—Porque cuanto más te acercas a la Confluencia, más frecuentes parecen ser.
+
+Durante unos segundos las tres guardaron silencio.
+
+—¿Insinúas que se originan allí?
+
+Yulia observó la oscuridad más allá del ventanal.
+
+—No puedo demostrarlo.
+»Pero si me obligaran a señalar un lugar en un mapa...
+»Señalaría la Confluencia.
+
+—La zona cero.
+
+—Sí.
+»La zona cero.
+
+---
+
+—Cinco partidas seguidas es imposible.
+
+—Seis —corrigió alguien desde el fondo.
+
+—Muéstrame cómo lo haces.
+
+Maarten observó la posición.
+
+—Jugando.
+
+Aquella respuesta no ayudó.
+
+—No puedes aprender este juego en una tarde.
+
+—No lo hice.
+
+—¿Entonces?
+
+—Quizás mirando.
+
+El silencio resultó peligrosamente breve.
+
+—Eso tampoco ayuda.
+
+Varela cerró los ojos.
+
+—Ya estamos.
+
+Takoda observó la reunión de kallamitas que rodeaba la mesa.
+
+—¿Por qué siempre terminamos así?
+
+—Porque Maarten es incapaz de perder con elegancia.
+
+—No he perdido.
+
+—Ese es exactamente el problema.
+
+Alrededor del tablero ya había cuatro kallamitas de pie. Ninguno parecía dispuesto a aceptar otra derrota. Ninguno parecía especialmente dispuesto a aceptar ninguna explicación. Uno de ellos empujó el tablero. Las fichas se desplazaron. Otro dio un paso adelante. Varela se incorporó lentamente.
+
+—Señores...
+
+El primero lanzó un empujón. Y la diplomacia terminó oficialmente. Un kallamita intentó sujetar a Maarten por el uniforme. Varela le apartó el brazo. Otro decidió que aquello significaba combatir. Un tercero interpretó algo completamente distinto. Takoda intentó separar a dos contendientes. Descubrió inmediatamente que nadie compartía ese objetivo.
+
+—¡Estoy intentando ayudar!
+
+Aquello tampoco ayudó. Una silla cayó. Alguien protestó. Alguien más protestó porque el primero protestaba. Una mesa cercana decidió rendirse. Al otro lado del local dos figuras ya se habían puesto en movimiento. El primer oficial avanzaba con la resignación de quien había previsto exactamente aquello. El jefe de seguridad caminaba a su lado.
+
+—Te debo veinte —dijo el primer oficial.
+
+—Yo aposté por la cuarta partida.
+
+—Llegaron a la sexta.
+
+—Los humanos siempre superan expectativas.
+
+Llegaron al grupo justo cuando Takoda era empujado accidentalmente por tercera vez. El jefe de seguridad inmovilizó a un kallamita. El primer oficial separó a otro. Durante unos tres segundos pareció que recuperarían el control. Luego alguien intentó recuperar su honor.
+
+Y empeoró todo. Las puertas del local se abrieron. Entraron los agentes de seguridad de la estación. Uno observó la escena. Miró al segundo agente.
+
+—¿Otra vez?
+
+—Kallamitas.
+
+Ambos levantaron aturdidores. Varias descargas azules iluminaron el local. El silencio fue inmediato. Un kallamita cayó de espaldas. Otro quedó inmóvil sobre una mesa rota. Takoda recibió una descarga parcial mientras intentaba explicar que era inocente, bajo el cuerpo desmayado del otro kallamita.
+
+—¡Yo no estaba peleando! —llegó a decir.
+
+---
+
+Barbarroja apoyó ambas manos sobre la mesa.
+
+—Sé que no me harás caso.
+
+Cho no respondió.
+
+—Y sé que vas a entrar de todos modos.
+»Pero necesito decirlo porque soy tu amigo.
+
+Levantó la vista.
+
+—Todavía puedes decir que no.
+
+—No puedo.
+
+—Sí que puedes.
+
+Barbarroja negó lentamente con la cabeza.
+
+—Eso es lo que más me preocupa.
+
+Durante unos segundos ninguno de los dos habló. Cho terminó el café. Ya estaba frío.
+
+Cho observó la identificación.
+
+—Tengo que irme.
+
+Barbarroja asintió.
+
+—Lo imaginé.
+
+Cho guardó los sobres. Caminó hacia la puerta.
+
+—Salmón.
+
+Se detuvo.
+
+Hacía mucho que nadie lo llamaba así dos veces en una misma noche. Barbarroja tardó un momento en continuar.
+
+—Quiero que regreses.
+
+—Esa sí que es una frase vacía.
+
+—No lo es.
+»Quiero que vuelvas de verdad.
+»Quiero que dentro de unos meses entres por esa puerta.
+»Quiero poder seguir quejándome de tus decisiones.
+»Y quiero que volvamos a sentarnos aquí a beber este café horrible.
+
+Cho bajó la vista hacia la taza.
+
+—Eso último es una amenaza.
+
+—Funciona mejor que los discursos.
+
+Por primera vez en varios minutos ambos sonrieron.
+
+—Nos vemos, Barbarroja.
+
+—Vuelve, Salmón.
+
+Ya fuera del salón el capitán abrió su comunicador:
+
+—Capitán, tenemos un problema.
+
+—¿Qué tipo de problema?
+
+—Testosterona.
+
+---
+
+La sala de situación de la Alejandro estaba en silencio. Un silencio incómodo. Un silencio que no mejoraba al observar a los presentes. El Varela tenía el pómulo amoratado. Takoda lucía un corte poco elegante sobre una ceja. El Maarten parecía perfectamente normal. Aquello resultaba irritante. El Teniente Comandante Samuel Lewinski tenía el uniforme rasgado en una manga. El Comandante Pieter Malan exhibía un hematoma creciente en la mandíbula. Nadie parecía especialmente orgulloso de sí mismo.
+
+La puerta se abrió. Jun Cho entró en la sala. Observó el grupo. Después volvió a observarlo.
+
+—¿Debo preguntar?
+
+Nadie respondió. Cho dejó una carpeta sobre la mesa.
+
+—Es una pregunta sincera.
+
+Takoda levantó una mano.
+
+—Creo que los hechos pierden matices importantes si se resumen demasiado.
+
+—Bájala.
+
+Takoda bajó la mano.
+
+—Sí, señor.
+
+Cho miró a Malan.
+
+—¿Qué ocurrió?
+
+Malan tardó unos segundos.
+
+—Técnicamente, fue una disputa cultural.
+
+Cho giró la cabeza hacia Lewinski.
+
+—¿Y la versión real?
+
+—Pelea de bar.
+
+Cho observó de nuevo los rostros.
+
+—¿Participaron todos?
+
+—No —dijo Lewinski.
+
+Cho asintió.
+
+—Bien.
+
+—La estación también participó.
+
+—Samuel.
+
+—Considero importante la precisión de los hechos.
+
+Cho cerró los ojos un instante.
+
+—¿Hay alguien en esta sala que no haya sido arrestado?
+
+Se hizo un silencio. Takoda levantó un dedo.
+
+—Fui aturdido antes del arresto.
+
+—Eso no mejora tu situación.
+
+—¿Daños materiales?
+
+Lewinski consultó la tableta.
+
+—Tres mesas.
+
+—Cuatro sillas.
+
+—Un tablero kallamita de competición.
+
+—Y aproximadamente cuatro toneladas de pescado.
+
+Silencio.
+
+Cho parpadeó.
+
+—¿Perdón?
+
+Nadie pareció particularmente interesado en explicar el pescado. Cho observó la sala una vez más.
+
+—De estos tres podía esperarlo.
+
+Señaló a Takoda, Maarten y Varela.
+
+—De hecho, habría estado preocupado si no hubieran estado implicados.
+
+Takoda pareció tomárselo como un cumplido. No lo era. Cho desplazó la mirada hacia Pieter Malan y Samuel Lewinski.
+
+—Pero un primer oficial y un jefe de seguridad.
+»Eso sí consigue sorprenderme.
+
+El silencio se prolongó unos segundos.
+
+—Capitán... —empezó Malan.
+
+—No.
+
+Levantó una mano.
+
+—No quiero detalles.
+»Los detalles solamente conseguirían empeorar el informe.
+
+Cerró la carpeta.
+
+—Voy a dejar pasar este incidente.
+
+Varias expresiones se relajaron ligeramente.
+
+—Porque dentro de muy poco nos dirigiremos hacia un lugar donde una pelea de bar va a figurar muy abajo en mi lista de preocupaciones.
+
+Las expresiones volvieron a tensarse.
+
+—Pero espero que entiendan una cosa.
+
+Cho apoyó ambas manos sobre la mesa.
+
+—Acabo de ver a una parte del personal responsable de llevar esta expedición a la región más peligrosa de la galaxia siendo arrestado por una patrulla portuaria.
+»Y eso no inspira exactamente confianza.
+
+Nadie tuvo nada que decir a aquello.
+
+—La Dra. Patel se ocupará de ustedes.
+
+Observó el labio de Takoda. Después el pómulo de Varela. Después la mandíbula de Malan.
+
+—Quiero que la próxima vez que vea estas caras parezcan oficiales de exploración.
+»No supervivientes de una mala decisión colectiva.
+
+En ese instante se abrió un canal de comunicaciones.
+
+—Puente a sala de situación.
+
+Cho levantó la vista.
+
+—Adelante.
+
+—La Fragata Nueva York acaba de entrar en el perímetro de aproximación.
+»Tiempo estimado para atraque: cinco minutos.
+
+El silencio regresó instantáneamente. Cho observó a los presentes.
+
+—Perfecto.
+
+---
+
+El puente de la Alejandro recuperaba lentamente su ritmo habitual.
+
+—Situación.
+
+Pieter Malan consultó su tableta.
+
+—Tripulación embarcada y lista para la partida.
+»Sistemas operativos dentro de parámetros.
+»Escolta lista.
+»Comunicaciones listas.
+»Navegación lista.
+
+Cho asintió.
+
+—¿Suministros?
+
+—Completos.
+
+Hizo una breve pausa.
+
+—Incluyendo las cuatro toneladas de pescado.
+
+El silencio fue inmediato. Cho cerró los ojos. Resopló.
+
+—Por supuesto.
+
+Nadie hizo comentario alguno. Era mejor para todos.
+
+—Muy bien.
+
+Cho apoyó una mano sobre el respaldo de su asiento.
+
+—Llévenos a la sombra, Maarten.
+
+—Sí, señor —una pequeña sonrisa apareció en el rostro del Capitán de Corbeta.
+
+La orden recorrió el puente. Fuera de la nave, el muelle comenzó a alejarse lentamente. A través del ventanal observaron cómo la  escolta ocupaban sus posiciones alrededor de la formación. Durante unos segundos nadie habló.
+
+Por la ventana frontal del puente todos pudieron ver una agrupación de luces cerca de los muelles. Varias corbetas policiales de la Alianza rodeaban al carguero de transporte con la cabeza de pescado como logotipo. Cho observó la imagen, junto con Varela, Maarten y Takoda. Nadie dijo nada. Nadie parecía dispuesto a formular preguntas cuya respuesta ya conocía.
+
+Veinticinco minutos después la Alejandro continuaba alejándose de Novogord. Desde hacía rato que no se veían los muelles. A través del ventanal las balizas de advertencia aparecían en todas direcciones. Miles de pequeños emisores flotando en el vacío con hologramas que mostraban el mensaje, «ZONA DE EXCLUSIÓN DE SALTO» Algunas estaban separadas por apenas unos miles de kilómetros. Otras formaban corredores completos que señalaban los límites de la zona segura.
+
+—Nunca había visto tantas —admitió Helena.
+
+—¿Qué son? —preguntó Takoda.
+
+—Supervivencia económica.
+
+—¿Cómo?
+
+Varela señaló hacia atrás.
+
+—Novogord existe gracias al tráfico que utiliza el puente.
+
+—Y gracias a que nadie salta demasiado cerca.
+
+—¿Por la estación?
+
+—Por la estación y por cualquiera que tenga la mala idea de estar cerca.
+
+Maarten amplió un esquema en una pantalla.
+
+—Cuando un puente se abre genera una deformación gravitatoria temporal.
+
+—Pequeña —aclaró Varela.
+
+—Normalmente.
+
+—Normalmente.
+
+Helena observó la imagen.
+
+—¿Y aquí no?
+
+—Aquí tenemos una estrella gigante al otro lado.
+
+—Eso cambia las cosas.
+
+—Mucho.
+
+Maarten señaló varios indicadores.
+
+—Una apertura realizada demasiado cerca podría comprometer estructuras de atraque, naves civiles o plataformas orbitales.
+
+—Y provocar cientos de demandas —añadió Varela.
+
+—Eso también.
+
+Patel observó las boyas.
+
+—Imagino que más de uno lo ha intentado.
+
+—Claro.
+
+—¿Y?
+
+Varela sonrió.
+
+—La estación dispone de un acuerdo judicial con la Alianza.
+
+—Y la Alianza dispone de una opinión muy negativa de quien lo incumple.
+
+—Entiendo.
+
+—Es una de esas raras ocasiones en las que todos los abogados de la galaxia están de acuerdo.
+
+Las boyas fueron quedando atrás. Un operador levantó la vista.
+
+—Posición de salto alcanzada.
+
+—Informe a la escolta que tomen formación de salto.
+
+Las dos fragatas y las tres corbetas se acercaron al crucero hasta distancia de vértigo.
+
+Maarten revisó los datos por última vez.
+
+—Solución calculada.
+
+—Destino confirmado.
+
+—Puente estable.
+
+Miró a Cho.
+
+—Listo.
+
+Cho asintió.
+
+—Proceda.
+
+Durante una fracción de segundo una membrana azulada creció desde el centro de la nave hasta cubrir toda la formación, incluyendo la escolta. Takoda parpadeó.
+
+—Nunca me acostumbro a eso.
+
+—Desconectando pantalla.
+
+Por un instante las estrellas desaparecieron. Al siguiente habían regresado.
+
+—Ya está.
+
+Takoda giró la cabeza.
+
+—¿Soy yo o eso fue más rápido?
+
+—Lo fue.
+
+—¿Por qué?
+
+Maarten observó las lecturas.
+
+—Porque Narimis gira alrededor de una gigante azul. Su gradiente de atracción es mayor y eso impacta en el tiempo de tránsito
+
+—Por eso también se vio azul la burbuja.
+
+—Exactamente, cada destino tiene su color dependiendo de su estrella.
+
+—En poco tiempo aprenderá a reconocer el amarillo del Sol de la Tierra.
+
+—Espero no viajar tanto.
+
+Varela sonrió.
+
+—La física también tiene favoritos.
+
+—No creo, salir del pozo gravitatorio de Narimis son dos días.
+
+Frente a ellos brillaba una estrella inmensa. Azul. Dominando el espacio circundante. El sistema Narimis.
+
+Y, más allá de él, la ruta hacia la Confluencia.

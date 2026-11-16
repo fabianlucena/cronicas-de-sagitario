@@ -1,22 +1,48 @@
 # Personajes de Por lo que decidas
 
-| Personaje            | Rol                        | Facción        | Tema        |
-| -------------------- | -------------------------- | -------------- | ----------- |
-| Helena Arce          | Antropóloga, protagonista  | Sagitario      | Comprender  |
-| Amina Rahal          | Almirante, diplomática     | Sagitario      |             |
-| Cho                  | Capitan                    | Sagitario      |             |
-| Varela               | Jefe de Ingenieros         | Sagitario      |             |
-| Dra. Meera Patel     | Doctora en jefe de la nave | Sagitario      |             |
-| Maarten van der Meer | Navegante                  | Sagitario      |             |
-| Dr. Takoda Sinclair  | Xenobiólogo                | Humano         |             |
-| Dra. Yulia Melnyk    | Psicóloga clínica          |                |             |
-| Virglio Aresh        | Embajador Narimi           | Narimis        | Conciliar   |
-| Custodio             |                            | Custodios      | Recordar    |
-| Purificador          |                            | Purificadores  | Proteger    |
-| Agente de la Orden   |                            | Noveno Verso   | Controlar   |
-| Escucha              |                            | Escuchas       | Escuchar    |
-| Thzari               | Madre de los Mundos        | Mundos Gemelos | Sufrimiento |
+| Personaje            | Rol                        | Facción        | Grado                | Tema        |
+| -------------------- | -------------------------- | -------------- | -------------------- | ----------- |
+| Helena Arce          | Antropóloga, protagonista  | Sagitario      |                      | Comprender  |
+| Amina Rahal          | Almirante, diplomática     | Sagitario      | Almirante            |             |
+| Jun Cho              | Capitan                    | Sagitario      | Comodoro             |             |
+| Varela               | Jefe de Ingenieros         | Sagitario      | Mayor                |             |
+| Dra. Meera Patel     | Doctora en jefe de la nave | Sagitario      | Comandante           |             |
+| Maarten van der Meer | Navegante                  | Sagitario      | Capitán de corbeta   |             |
+| Dr. Takoda Sinclair  | Xenobiólogo                | Humano         |                      |             |
+| Dra. Yulia Melnyk    | Psicóloga clínica          | Humana         |                      |             |
+| Pieter Malan         | Primer oficial             | Sagitario      | Comandante           |             |
+| Samuel Lewinski      | Jefe de seguridad          | Sagitario      | Teniente Comandante. |             |
+| Virglio Aresh        | Embajador Narimi           | Narimis        |                      | Conciliar   |
+| Custodio             |                            | Custodios      |                      | Recordar    |
+| Purificador          |                            | Purificadores  |                      | Proteger    |
+| Agente de la Orden   |                            | Noveno Verso   |                      | Controlar   |
+| Escucha              |                            | Escuchas       |                      | Escuchar    |
+| Thzari               | Madre de los Mundos        | Mundos Gemelos |                      | Sufrimiento |
 
+## Grados militares
+
+### Oficiales subalternos
+
+1. Alférez
+2. Teniente
+3. Capitán de Corbeta
+
+### Oficiales superiores
+
+4. Mayor
+5. Teniente Comandante
+6. Comandante
+
+### Mando de flotilla
+
+7. Capitán
+8. Comodoro
+
+### Alto mando
+
+9. Contraalmirante
+10. Vicealmirante
+11. Almirante
 ## Dra. Meera Patel
 
 Algo sarcástica y un poco suspicaz. inteligente y prudente.
@@ -210,3 +236,125 @@ Y que conservar la identidad puede ser más importante que recuperar la cordura 
 #### Frase asociada
 
 > "Todos quieren saber qué encontró Popeye en la Confluencia. Yo llevo años preguntándome qué perdió allí."
+
+---
+
+### Pieter Malan
+
+**Cargo:** Primer Oficial de la _Alejandro_.
+
+**Edad:** 52 años.
+
+**Lugar de nacimiento:** Colonia Sagitario de Nueva Stellenbosch.
+
+Una de las colonias humanas más antiguas fundadas por descendientes de colonos afrikáners, conocida por producir pilotos, navegantes y oficiales de la flota.
+
+#### Historial
+
+- Ingresó en la Armada de Sagitario a los dieciocho años.
+- Comenzó como oficial de navegación.
+- Sirvió en patrullas de frontera durante más de dos décadas.
+- Participó en operaciones de rescate, escolta y exploración de larga distancia.
+- Ascendió lentamente por méritos, no por influencia.
+- Fue Primer Oficial de tres naves de exploración antes de ser asignado a la _Alejandro_.
+
+#### Reputación
+
+Entre los capitanes tiene fama de resolver problemas.
+
+Entre los oficiales tiene fama de crearlos cuando son necesarios.
+
+No es carismático.
+
+No es inspirador.
+
+No es querido.
+
+Es competente.
+
+Y en una nave eso suele ser más importante.
+
+#### Relación con Cho
+
+Malan admira profundamente a Cho.
+
+Y considera que muchas de sus decisiones son una mala idea.
+
+Puede mantener ambas opiniones al mismo tiempo.
+
+Por eso funciona como primer oficial.
+
+Su filosofía profesional podría resumirse en:
+
+> "Mi trabajo no consiste en tener razón.
+> 
+> Mi trabajo consiste en asegurarme de que el capitán sobreviva a sus ideas."
+
+---
+
+### Samuel Lewinski
+
+**Cargo:** Jefe de Seguridad de la _Alejandro_
+
+**Edad:** alrededor de 48-55 años.
+
+**Lugar de nacimiento:** Nueva Cracovia, una colonia humana industrial fundada por migrantes del este de Europa en los primeros siglos de expansión sagitariana. (Esto ya sería construcción tuya, pero encaja muy bien con el apellido).
+
+**Trayectoria:**
+
+- Ex infante de marina.
+- Especialista en seguridad de naves de exploración.
+- Experiencia en puertos de frontera, escoltas diplomáticas y operaciones antipiratería.
+- Lleva años trabajando con tripulaciones científicas y exploradores.
+- Desconfía de casi todos los exploradores.
+- Tiene razones para ello.
+
+#### Personalidad
+
+Mientras Malan previene problemas, Lewinski los contiene.
+
+Malan se pregunta:
+
+> "¿Cómo evitamos este desastre?"
+
+Lewinski se pregunta:
+
+> "¿Cuántos formularios voy a tener que rellenar cuando ocurra?"
+
+No es gruñón.
+
+Es peor.
+
+Es paciente.
+
+Lleva tantos años viendo científicos brillantes tomar decisiones absurdas que ya no se sorprende por nada.
+
+#### Dinámica con Pieter Malan
+
+Los imagino así:
+
+> —¿Cuántos detenidos?
+> 
+> —Técnicamente ninguno.
+> 
+> —Samuel.
+> 
+> —Cinco.
+> 
+> —Gracias.
+> 
+> —De nada.
+
+o
+
+> —¿Qué ha ocurrido?
+> 
+> —¿La versión resumida o la honesta?
+> 
+> —La resumida.
+> 
+> —Pelea de bar.
+> 
+> —¿Y la honesta?
+> 
+> —Pelea de bar iniciada por sus oficiales.
