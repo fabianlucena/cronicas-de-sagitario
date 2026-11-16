@@ -37,7 +37,7 @@ Patel sonrió.
 
 —Es el análisis sociológico más optimista que te escuché desde que te conozco.
 
-La multitud se abrió de pronto, apenas lo suficiente, algunas personas aprendían a apartarse cuando veían venir a un oficial con prisa. El capitán Cho avanzó entre la gente sin detenerse. Uniforme oscuro. Paso firme. No saludó, ni esperó saludo, tampoco dió órdenes. Simplemente atravesó el corredor como alguien que ya sabía adónde iba. Dos discretos agentes de seguridad caminaban algunos metros detrás. Sin armas visibles. Lo bastante cerca para intervenir. Lo bastante lejos para no parecer escolta. El capitán no disminuyó la marcha ni una sola vez.
+La multitud se abrió de pronto, apenas lo suficiente, algunas personas aprendían a apartarse cuando veían venir a un oficial con prisa. El capitán Cho avanzó entre la gente sin detenerse. Uniforme oscuro. Paso firme. No saludó, ni esperó saludo, tampoco dio órdenes. Simplemente, atravesó el corredor como alguien que ya sabía adónde iba. Dos discretos agentes de seguridad caminaban algunos metros detrás. Sin armas visibles. Lo bastante cerca para intervenir, lo bastante lejos para no parecer escolta. El capitán no disminuyó la marcha ni una sola vez.
 
 —¿Es él? —preguntó Takoda.
 
@@ -55,7 +55,7 @@ Varela soltó una sonrisa.
 
 —¿Problemas?
 
-—Un amigo.
+—Tres amigos.
 
 —Busquemos el tugurio.
 
@@ -71,10 +71,6 @@ Takoda parpadeó.
 
 —Hay cientos de bares.
 
-—Exactamente.
-
-—Eso no responde mi pregunta.
-
 —En Novogord todos saben cuál es el tugurio —explicó Patel.
 
 —¿Y cómo lo reconocemos?
@@ -83,7 +79,7 @@ Varela señaló hacia una avenida iluminada por carteles luminosos.
 
 —Cuando lo encuentres, no tendrás ninguna duda.
 
-—Eso tampoco me parece una explicación útil.
+—Eso no me parece una explicación útil.
 
 —Bienvenido a la exploración científica —dijo Patel.
 
@@ -117,7 +113,7 @@ Patel observó otra vez al vendedor. El supuesto niño seguía allí, esperando 
 
 —No. Es un poctariano.
 
-—¿Y la diferencia?
+—¿Y cuál sería la diferencia?
 
 —Unos setenta años.
 
@@ -143,7 +139,7 @@ La médica volvió a mirar al vendedor.
 
 —No era un cumplido.
 
-—También acepto esos.
+—También acepto de esos.
 
 Takoda soltó una carcajada.
 
@@ -197,11 +193,11 @@ Y desapareció entre la multitud en busca de otra víctima comercial.
 
 ---
 
-Cho abandonó el corredor principal y se internó en una zona mucho más tranquila de Novogord. La mayoría de los visitantes jamás llegaba allí. Las tiendas abiertas al público quedaban cerca de los muelles. Allí se movía el dinero rápido. Más adentro se encontraban los negocios que no necesitaban atraer clientes. El local de Barbarroja pertenecía a esa categoría. La placa exterior era pequeña.
+Cho abandonó el corredor principal y se internó en una zona mucho más tranquila de Novogord. La mayoría de los turistas jamás llegaba allí. Las tiendas abiertas al público quedaban cerca de los muelles. Allí se movía el dinero rápido. Más adentro se encontraban los negocios que no necesitaban atraer clientes. El local de Barbarroja pertenecía a esa categoría. La placa exterior era pequeña.
 
 **BARBARROJA Y ASOCIADOS** Compra y venta de antigüedades certificadas.
 
-Cho siempre había sospechado que aquella descripción era deliberadamente aburrida. Empujó la puerta. Una campanilla sonó. A Cho siempre le había parecido curioso el mecanismo. El marco empujaba la pequeña campanilla al abrirse la puerta, simple. efectivo, extrañamente anticuado. El interior parecía una mezcla imposible entre museo, depósito y desastre natural. Cartas estelares antiguas. Instrumentos de navegación. Ídolos religiosos. Fragmentos de maquinaria. Mapas impresos sobre materiales que ya no se fabricaban. Todo dispuesto desordenadamente entre vitrinas, estanterías y cajas. Muchas cajas.
+Cho siempre había sospechado que aquella descripción era deliberadamente aburrida. Empujó la puerta. Una campanilla sonó. A Cho siempre le había parecido curioso el mecanismo. El marco empujaba la pequeña campanilla al abrirse la puerta, simple, efectivo, extrañamente anticuado. El interior parecía una mezcla imposible entre museo, depósito y desastre natural. Cartas estelares antiguas. Instrumentos de navegación. Ídolos religiosos. Fragmentos de maquinaria. Mapas impresos sobre materiales que ya no se fabricaban. Todo dispuesto desordenadamente entre vitrinas, estanterías y cajas. Sobre todo cajas.
 
 —No toques nada.
 
@@ -211,17 +207,23 @@ Cho sonrió.
 
 Una figura apareció detrás de una montaña de contenedores. Barbarroja seguía teniendo exactamente el mismo aspecto. Aquello resultaba irritante.
 
-—Llegaste tarde.
+—¿Vienes solo?
 
-—Soy capitán.
+—Son escolta reglamentaria.
 
-—Eso no te convierte en puntual.
+—No hablaba de ellos.
+
+Cho suspiró.
+
+—Sí, vengo solo.
+
+—Lástima.
 
 —Esperen aquí afuera, quiero hablar a solas con este hombre —ordenó a los guardias.
 
 Los guardias se retiraron hasta un pequeño café situado frente al local. Lo bastante cerca para intervenir. Lo bastante lejos para no escuchar. Barbarroja observó por encima del hombro de Cho.
 
-—¿Esos dos vienen contigo? Recuerdo cuando nos seguían acreedores.
+—Recuerdo cuando los tres escapábamos de los acreedores.
 
 —Los tiempos cambian.
 
@@ -245,9 +247,11 @@ Cho permaneció en silencio.
 
 Barbarroja señaló una silla.
 
-—El capitán puede esperar afuera con su escolta.
+—El capitán puede esperar afuera con «su escolta».
 
 ---
+
+Lejos del silencio Barbarroja y asociados, los oficiales encontraron el tugurio, un tugurio.
 
 —Si un lugar aparece en un mapa, tarde o temprano aparecerá un humano.
 
@@ -259,13 +263,13 @@ Las carcajadas se extendieron por varias mesas.
 
 Maarten miró a Takoda.
 
-—Creo que hablan de nosotros.
+—Quizás hablan de nosotros.
 
 —Es una posibilidad remota.
 
 —Sí. Apenas nos señalaron.
 
-Uno de los kallamitas levantó su vaso a modo de saludo. La especie era inconfundible incluso para quien nunca hubiera visto una. Bajos y anchos de hombros, con una complexión que parecía diseñada para trabajar piedra o cargar motores de fusión. Sus rostros estaban dominados por frentes amplias y ojos pequeños muy separados. Pequeñas crestas óseas recorrían las sienes y desaparecían bajo el cabello oscuro.
+Uno de los kallamitas levantó su vaso a modo de saludo. La especie era inconfundible incluso para quien nunca hubiera visto uno. Bajos y hombros anchos, con una complexión que parecía diseñada para trabajar piedra o cargar motores de fusión. Sus rostros estaban dominados por frentes amplias y ojos pequeños muy separados. Pequeñas crestas óseas recorrían las sienes y desaparecían bajo el cabello oscuro.
 
 —No es personal.
 
@@ -343,7 +347,7 @@ El kallamita se encogió de hombros.
 
 Uno de los kallamitas observó al grupo unos segundos antes de negar con la cabeza.
 
-—Lo que jamás lo entenderé, es esa cosa de la curiosidad humana.
+—Lo que jamás entenderé, es esa cosa de la curiosidad humana.
 
 —Nos lo dicen a menudo.
 
@@ -361,7 +365,7 @@ Esta vez las carcajadas fueron generales. Maarten se detuvo. Takoda suspiró.
 
 —¿Y si mejor nos vamos? —propuso Varela.
 
-—Si has venido a demostrar que los humanos pueden sobrevivir a la Confluencia, ésa es su problema.
+—Si has venido a demostrar que los humanos pueden sobrevivir a la Confluencia, ése es su problema.
 
 Maarten fue el primero en apartar la vista del grupo de kallamitas.
 
@@ -383,13 +387,13 @@ Maarten se acercó.
 
 —Porque no eres kallamita.
 
-—Correcto.
+—Quizás.
 
 —Problema resuelto.
 
 Takoda observó el tablero por encima de su hombro.
 
-—Parece una variante de las damas o del Go.
+—Parece una variante de las damas o del go.
 
 Los kallamitas emitieron sonidos de desaprobación.
 
@@ -533,7 +537,7 @@ Maarten ocupó la silla frente al tablero.
 
 ---
 
-Mientras Maarten y Varela se acomodaban frente al tablero Takoda discutía con los kallamitas sobre el significado de arrogancia. Patel no estaba interesada en demostraciones de superioridad y decidió dejarles la competición. Había visto suficientes versiones de aquella escena a lo largo de su carrera como para adivinar el desenlace. Primero los desafíos. Después las apuestas. Finalmente alguien haría algo estúpido. Buscó entonces una mesa más tranquila. Entonces notó la mujer humana que ocupaba sola una mesa cercana al ventanal. Uniforme sagitariano. Cabello oscuro recogido sin demasiado cuidado. Un vaso en una mano. No parecía aburrida. Tampoco relajada. Parecía una persona atrapada en algún pensamiento distante. Patel calculó que tendría una edad similar a la suya. Quizá algo más. Había algo familiar en ella. No en su rostro, en su actitud. La postura de alguien acostumbrado a los hospitales. A largas guardias y dar malas noticias. Patel tomó su bebida y señaló la silla vacía frente a la mujer.
+Mientras Maarten y Varela se acomodaban frente al tablero, Takoda discutía con los kallamitas sobre el significado de arrogancia. Patel no estaba interesada en demostraciones de superioridad y decidió dejarles la competición. Había visto suficientes versiones de aquella escena a lo largo de su carrera como para adivinar el desenlace. Primero los desafíos. Después las apuestas. Finalmente, alguien haría algo estúpido. Buscó entonces una mesa más tranquila. Notó la mujer humana que ocupaba sola una mesa cercana al ventanal. Uniforme sagitariano, cabello oscuro recogido sin demasiado cuidado, un vaso en una mano. No parecía aburrida, tampoco relajada. Parecía una persona atrapada en algún pensamiento distante. Patel calculó que tendría una edad similar a la suya. Quizá algo más. Había algo familiar en ella. No en su rostro, en su actitud. La postura de alguien acostumbrado a los hospitales. A guardias largas y dar malas noticias. Patel tomó su bebida y señaló la silla vacía frente a la mujer.
 
 —¿Le molesta si me siento?
 
@@ -567,9 +571,9 @@ Patel tomó asiento. Durante unos segundos ambas observaron el movimiento consta
 
 —Ésa es una observación inquietantemente específica.
 
-—Soy médica, Dra Patel.
+—Dra. Patel, médica de la expedición —se presentó.
 
-—Ahora todo tiene sentido. También soy doctora Yulia Melnyk.
+—Ahora todo tiene sentido. Dra. Yulia Melnyk, psicóloga.
 
 —Ya veo por qué eligió una mesa alejada de la gente.
 
@@ -635,7 +639,7 @@ Barbarroja regresó con dos tazas. Las dejó sobre una mesa ocupada por mapas en
 
 —Porque alguien intentaba venderla demasiado barato.
 
-—Magnífico criterio científico.
+—Magnífico criterio comercial.
 
 —Gracias.
 
@@ -649,7 +653,7 @@ Cho tomó un sorbo. Era peor de lo esperado. Lo cual significaba que era autént
 
 Barbarroja se acomodó contra una estantería.
 
-—Siguen llegando comerciantes, aventureros. Idiota bah.
+—Siguen llegando comerciantes, aventureros. Idiotas bah.
 
 —¿Compradores?
 
@@ -657,7 +661,7 @@ Barbarroja se acomodó contra una estantería.
 
 Guardaron silencio unos segundos. Aquello era Novogord. La estación cambiaba todos los días. Y al mismo tiempo nunca cambiaba.
 
-—¿Recuerdas cuando bebíamos algo mejor que esto?
+—¿Recuerdas cuando los tres bebíamos algo mejor que esto?
 
 —No podíamos permitírnoslo.
 
@@ -673,17 +677,13 @@ Cho soltó una pequeña risa.
 
 —La Alejandro.
 
-Barbarroja asintió lentamente.
-
-—Bonita nave.
+—A él le habría encantado.
 
 —¿La conoces?
 
 —Conozco gente que todavía presume haber servido en ella treinta años después.
 
-—Eso parece habitual.
-
-—No. Eso parece la Alejandro.
+—Sí, eso parece la Alejandro.
 
 Cho sonrió.
 
@@ -694,6 +694,8 @@ Aquello sonaba exactamente igual que Varela.
 —No lo necesita.
 
 ---
+
+En el bar la conversación se pudo mucho más amena. No eran dos desconocidas, compartían un desatino común.
 
 —¿Psicología clínica? —preguntó Patel.
 
@@ -715,7 +717,7 @@ Tomó un sorbo de su bebida.
 
 —Eso suena mucho peor.
 
-—Lo es.
+—Ciertamente, lo es.
 
 Patel estaba a punto de responder cuando una sombra cayó sobre la mesa. Una mujer apareció junto a la mesa con una bandeja en una mano.
 
@@ -731,11 +733,11 @@ La recién llegada se dejó caer en el asiento con evidente alivio.
 
 —Meera Patel.
 
-—Yulia.
+—Yulia Melnyk.
 
 —Helena Arce.
 
-Durante unos segundos las tres permanecieron en silencio observando el local. Desde la zona del tablero llegó una nueva ronda de aplausos y protestas.
+Por alguna razón, las tres, coincidieron en omitir el título «Dra.». Quizás querían aprovechar esta oportunidad de sentirse personas normales antes de sumergirse completamente en la misión. Desde la zona del tablero llegó una nueva ronda de aplausos y protestas.
 
 Helena siguió el ruido con la mirada.
 
@@ -753,7 +755,7 @@ Patel y Yulia intercambiaron una mirada, Helena continuó:
 
 —Crecí en un lugar parecido. Estaciones de paso, comerciantes, transportistas, gente llegando y marchándose constantemente.
 
-—Eso suena agotador —dijo Patel.
+—Eso suena agotador.
 
 —También educativo. Aprendes mucho observando a la gente. Quién miente. Quién tiene miedo. Quién intenta impresionar a alguien. Quién está a punto de cometer una estupidez.
 
@@ -789,9 +791,7 @@ Helena señaló vagamente los muelles tras el ventanal.
 
 —Porque he visto comerciantes de casi todas las especies, media galaxia parece pasar por esta estación.
 
-—Y, sin embargo...
-
-—Y, sin embargo, todos los que se preparan para entrar en la Confluencia son humanos.
+»Y, sin embargo, todos los que se preparan para entrar en la Confluencia son humanos.
 
 Desde el otro extremo del local se escuchó una voz:
 
@@ -801,7 +801,7 @@ Siguieron varios aplausos y protestas.  Las tres mujeres giraron la cabeza. Hele
 
 —Esto está escalando.
 
-—Sí —dijo Patel—. Y ni siquiera quiero saber cómo.
+—Sí —dijo Patel—. Y no quiero saber cómo.
 
 Helena observó la multitud reunida alrededor del tablero.
 
@@ -809,11 +809,7 @@ Helena observó la multitud reunida alrededor del tablero.
 
 —¿El qué? —preguntó Yulia.
 
-—Que sean humanos.
-
-—¿Tan mala opinión tiene de nosotros?
-
-—No. Al contrario.
+—Que seamos todos humanos.
 
 Helena apoyó los codos sobre la mesa.
 
@@ -872,6 +868,7 @@ Patel frunció ligeramente el ceño.
 —Es lo mismo.
 
 —Bueno, en su caso tal vez, sí. Pero me interesa más en su rol de historiador.
+
 »Llevábamos casi veinte años intercambiando correspondencia.
 
 —¿Eran amigos?
@@ -911,25 +908,19 @@ Cho tomó la memoria.
 
 —Gracias.
 
-—No me agradezcas todavía. Tuve que escuchar a tres comerciantes, dos contrabandistas retirados y un imbécil que insistía en que la Confluencia es una puerta interdimensional hacia una civilización de energía pura.
+—No me agradezcas todavía. Tuve que escuchar a tres comerciantes, dos contrabandistas retirados y un imbécil profesional que estuvo tres horas explicándome que la Confluencia fue construida por una conspiración de navegantes.
+
+—¿Profesional?
+
+—Tenías certificación.
 
 Cho guardó la memoria.
 
-—¿Y si tenía razón?
+Barbarroja miró hacia la puerta.
 
-—Entonces era un imbécil con suerte.
+—Todavía espero a que entre diciendo una tontería que nos haga morir de risa.
 
-Cho sonrió.
-
-—Eso sigue siendo mejor que la mayoría de las teorías de Novogord.
-
-—No creas. Por aquí todavía ganan votos los dioses estelares.
-
-—Eso explica muchas cosas.
-
-Barbarroja se apoyó contra el mostrador.
-
-—¿Hace mucho que no lo visitas?
+»¿Hace mucho que no lo visitas?
 
 La pregunta llegó sin aviso. Cho no respondió inmediatamente.
 
@@ -983,7 +974,7 @@ El silencio duró apenas un segundo. Barbarroja sonrió.
 
 Cho abrió la boca para responder. No encontró una respuesta especialmente convincente. Eso pareció divertir muchísimo a Barbarroja.
 
-—Te gustan las emociones, Salmón. Creo que todavía tienes esperanza.
+—Te gustan las emociones, Salmón. Creo que todavía tienes esperanza. Creo que los tres tenemos esperanza.
 
 —Voy a enfrentarme a una anomalía espacial posiblemente hostil.
 
@@ -991,15 +982,13 @@ Cho abrió la boca para responder. No encontró una respuesta especialmente conv
 
 —Eso no tiene sentido.
 
-—Y, sin embargo, llevas a bordo a la única mujer de la galaxia que probablemente pueda analizar todos tus problemas antes de que abandones el primer sistema estelar.
-
 ---
 
-Desde el otro extremo del local llegó una nueva oleada de voces. Las tres mujeres giraron la cabeza. Alrededor del tablero ya no quedaban jugadores sentados. Varios kallamitas permanecían de pie, observando la posición con los brazos cruzados. Otros discutían en voz baja. Ninguno parecía especialmente satisfecho con lo que estaba ocurriendo.
+Cerca de los muelles, desde el otro extremo del bar llegó una nueva oleada de voces. Las tres mujeres giraron la cabeza. Alrededor del tablero ya no quedaban jugadores sentados. Varios kallamitas permanecían de pie, observando la posición con los brazos cruzados. Otros discutían en voz baja. Ninguno parecía especialmente satisfecho con lo que estaba ocurriendo.
 
 —Eso ya no parece una partida amistosa —comentó Helena.
 
-—No —respondió Patel—. Creo que hemos pasado la fase amistosa hace bastante rato.
+—No lo es —respondió Patel—. Creo que hemos pasado la fase amistosa hace bastante rato.
 
 Yulia observó la multitud unos segundos.
 
@@ -1008,6 +997,8 @@ Yulia observó la multitud unos segundos.
 —¿Y él? —preguntó Helena señalando a Maarten.
 
 —Sagitariano.
+
+—Por supuesto.
 
 Desde la mesa del juego alguien protestó con evidente indignación.
 
@@ -1029,7 +1020,7 @@ Helena arqueó una ceja.
 
 —¿Todavía utilizan ese nombre?
 
-—Porque todavía nadie ha encontrado otro mejor.
+—Nade ha propuesto otro mejor.
 
 Su mirada se desplazó hacia el ventanal, hacia la oscuridad más allá de los muelles.
 
@@ -1037,8 +1028,10 @@ El ruido de la mesa volvió a elevarse. Un kallamita golpeó la superficie con d
 
 —Parece que ya son cuatro. Comienzo a sospechar que nosotros también estamos estudiando una forma de enfermedad mental.
 
-—No —dijo Yulia, observando el grupo—.
+—No —dijo Yulia, observando el grupo.
+
 »Eso es simplemente un humano convencido de que tiene razón.
+
 »He visto situaciones peores.
 
 —¿Relacionadas con la Confluencia?
@@ -1074,28 +1067,39 @@ Patel levantó la vista.
 —Eso no reduce demasiado las opciones en Novogord.
 
 —Era humano.
+
 »Educado.
+
 »Inteligente.
+
 »Perfectamente funcional.
+
 »Y completamente convencido de que escuchaba voces.
 
 —¿Qué clase de voces?
 
 —No estoy segura.
+
 »Era una especie de misionero.
 
 —¿Religioso?
 
 —No exactamente.
+
 »Hablaba como un predicador. Como alguien convencido de haber descubierto algo importante.
+
 »Pero no intentaba pedir dinero, ni seguidores, ni favores.
+
 »Parecía querer advertir a la gente.
 
 —¿Advertirlos de qué? —preguntó Patel.
 
 —Depende del momento de la conversación.
+
 »A veces hablaba de libertad.
+
 »A veces de la consciencia.
+
 »Una vez pasó casi diez minutos intentando explicarme que las civilizaciones inteligentes terminan construyendo sus propias prisiones.
 
 Patel arqueó una ceja.
@@ -1117,8 +1121,11 @@ Helena miró a Yulia.
 —¿Preguntas? —repitió Patel.
 
 —Según él, no las escuchaba con los oídos.
+
 »Aparecían en su cabeza.
+
 »Como ideas, intuiciones o algo así.
+
 »Como si alguien estuviera guiando lentamente sus pensamientos hacia determinados temas.
 
 Yulia ya no parecía relajada.
@@ -1142,7 +1149,9 @@ Yulia ya no parecía relajada.
 —¿Agresivo?
 
 —No, para nada.
+
 »Era inteligente. Educado. Incluso agradable.
+
 »Lo único extraño era que, de vez en cuando, se detenía en mitad de una frase.
 
 —¿Se detenía?
@@ -1160,11 +1169,12 @@ Cho observó los sobres. Reconoció la letra incluso desde allí. Habían pasado
 —Maduramos.
 
 —Recuerdo a tres amigos navegando por la galaxia con sueños de riqueza y jovencitas de dudosa moralidad. La pasamos bien, muy bien.
+
 »Ahora pareces empeñado en demostrar que el horizonte te debe una explicación.
 
 —Estoy haciendo mi trabajo, algunos dicen que es responsabilidad.
 
-—Eso es exactamente lo que diría un capitán. ¿Dónde está mi amigo? ¿Nuestro amigo Salmón?
+—Eso es exactamente lo que diría un capitán. ¿Dónde está nuestro amigo? ¿Nuestro amigo Salmón?
 
 Cerró el cajón. El nombre quedó suspendido entre ellos. Hacía mucho que nadie lo usaba. En Novogord todavía sobrevivía. Como otras cosas viejas que se negaban a desaparecer. Barbarroja se volvió por fin.
 
@@ -1172,26 +1182,27 @@ Cerró el cajón. El nombre quedó suspendido entre ellos. Hacía mucho que nadi
 
 Cho soltó una breve carcajada.
 
-—No todos podemos pasarnos la vida comprando basura.
-
-—Antigüedades.
-
-—Basura cara.
+—No todos podemos pasarnos la vida comprando y vendiendo basura.
 
 —Eso sigue siendo mejor que convertir la culpa en una profesión.
 
 La sonrisa desapareció lentamente del rostro de Cho. Ninguno de los dos habló durante unos segundos. Barbarroja dejó los sobres sobre la mesa. Con cuidado, como si fueran frágiles. Quizá lo eran. Con suavidad colocó la mano extendida sobre ellos como signo de despedida y se los acerco a Cho.
 
-—Llegan cada cierto tiempo —dijo finalmente—. Algunas tienen meses, otras, años.
+—Aquí está. Y no me refiero a estas cartas. Me refiero a nosotros tres.
+
+—Desearía que así fuera.
+
+—Llegan cada cierto tiempo —dijo finalmente, mirando las cartas—. Algunas tienen meses, otras, años.
 
 Cho no extendió la mano.
 
 —Pensé que se habían terminado.
 
 —Yo también.
+
 »Pero Popeye nunca fue bueno aceptando cuándo debía detenerse.
 
-El nombre produjo el mismo efecto que siempre. Un peso. Una ausencia. Algo sentado con ellos a la mesa.
+Finalmente, el nombre produjo el mismo efecto que siempre. Como si al nombrarlos Barbarroja hiciera realidad todo lo que, desde el inicio, quiso decir. Una ausencia. Algo sentado con ellos a la mesa.
 
 —¿Las leíste?
 
@@ -1213,7 +1224,7 @@ Cho observó los sobres unos segundos.
 
 Barbarroja asintió.
 
-—Cada uno o dos meses.
+—Todos los meses, a veces cada dos.
 
 —¿Y?
 
@@ -1221,7 +1232,7 @@ Barbarroja asintió.
 
 Cho permaneció en silencio.
 
-—Eso no suena demasiado alentador.
+—Eso no suena alentador.
 
 —Tampoco suena mal.
 
@@ -1240,16 +1251,18 @@ Cho apoyó una mano sobre los sobres sin llegar a cogerlos.
 Barbarroja tardó unos segundos en responder.
 
 —Le cuesta mantener una conversación.
-»A veces parece que somos tres los que estamos hablando cuando solamente está conmigo.
+
+»A veces, cuando estoy a solas con él, parece que somos tres los que estamos hablando.
+
 »Otras se queda callado durante minutos.
+
 »Mirando cualquier cosa.
+
 »Pensando.
 
+»Ya no ríe.
+
 Cho bajó la vista.
-
-—Ya no ríe.
-
-Barbarroja no respondió. No hacía falta.
 
 —Siempre se reía.
 
@@ -1277,7 +1290,7 @@ El viejo comerciante permaneció inmóvil, levantó su taza.
 
 —Que las estrellas recuerden...
 
-La reacción fue inmediata.
+La reacción fue inmediata. Cho se paró con furia.
 
 —No vuelvas a decir eso en mi presencia.
 
@@ -1299,7 +1312,7 @@ Cho cerró los ojos.
 
 —No empieces.
 
-—Tomó su decisión.
+—Él tomó su decisión.
 
 —No lo sabes.
 
@@ -1309,11 +1322,11 @@ Cho cerró los ojos.
 
 Barbarroja sostuvo su mirada.
 
-—Ni tú tampoco.
+—Tú tampoco.
 
 ---
 
-Yulia bajó la mirada hacia su vaso.
+En el bar, Yulia bajó la mirada hacia su vaso.
 
 —Conozco esos síntomas.
 
@@ -1323,12 +1336,9 @@ Helena intercambió una mirada con Patel.
 
 Yulia asintió lentamente.
 
-—Lo llamamos demencia espacial.
+—Es lo que llamamos demencia espacial.
 
 —Con que eso es.
-
-—Es un nombre terrible.
-»Pero sigue siendo el mejor que tenemos.
 
 Patel apoyó los codos sobre la mesa.
 
@@ -1337,10 +1347,15 @@ Patel apoyó los codos sobre la mesa.
 Yulia tardó unos segundos en responder.
 
 —Ojalá lo supiéramos.
+
 »Dificultades de concentración.
+
 »Pensamiento obsesivo.
+
 »Alteraciones perceptivas.
+
 »Alucinaciones auditivas en algunos casos.
+
 »Y, a veces, una sensación persistente de que existe algo más presente en la conversación.
 
 Helena permaneció inmóvil.
@@ -1358,6 +1373,7 @@ Yulia asintió.
 —¿Y la causa?
 
 —Nadie lo sabe.
+
 »Pero la distribución de los casos resulta inquietante.
 
 Helena inclinó ligeramente la cabeza.
@@ -1372,14 +1388,11 @@ Durante unos segundos las tres guardaron silencio.
 
 Yulia observó la oscuridad más allá del ventanal.
 
-—No puedo demostrarlo.
-»Pero si me obligaran a señalar un lugar en un mapa...
-»Señalaría la Confluencia.
+—No puedo demostrarlo. Pero si me obligaran a señalar un lugar en un mapa... Señalaría la Confluencia.
 
 —La zona cero.
 
-—Sí.
-»La zona cero.
+—Sí. La zona cero.
 
 ---
 
@@ -1397,11 +1410,11 @@ Aquella respuesta no ayudó.
 
 —No puedes aprender este juego en una tarde.
 
-—No lo hice.
+—Quizás no lo hice.
 
 —¿Entonces?
 
-—Quizás mirando.
+—Quizás solo observé.
 
 El silencio resultó peligrosamente breve.
 
@@ -1425,13 +1438,13 @@ Alrededor del tablero ya había cuatro kallamitas de pie. Ninguno parecía dispu
 
 —Señores...
 
-El primero lanzó un empujón. Y la diplomacia terminó oficialmente. Un kallamita intentó sujetar a Maarten por el uniforme. Varela le apartó el brazo. Otro decidió que aquello significaba combatir. Un tercero interpretó algo completamente distinto. Takoda intentó separar a dos contendientes. Descubrió inmediatamente que nadie compartía ese objetivo.
+El primero lanzó un empujón. Y la diplomacia terminó oficialmente. Un kallamita intentó sujetar a Maarten por el uniforme. Varela le apartó el brazo. Otro decidió que aquello significaba combatir. Un tercero interpretó algo completamente distinto. Takoda intentó separar a dos contendientes. Descubrió inmediatamente que nadie compartía su objetivo.
 
 —¡Estoy intentando ayudar!
 
-Aquello tampoco ayudó. Una silla cayó. Alguien protestó. Alguien más protestó porque el primero protestaba. Una mesa cercana decidió rendirse. Al otro lado del local dos figuras ya se habían puesto en movimiento. El primer oficial avanzaba con la resignación de quien había previsto exactamente aquello. El jefe de seguridad caminaba a su lado.
+Aquello tampoco ayudó. Una silla cayó. Alguien protestó. Alguien más protestó porque el primero protestaba. Una mesa cercana decidió rendirse hacia el suelo. Al otro lado del local dos figuras ya se habían puesto en movimiento. El comandante Pieter Malan Primer Oficial de la expedición avanzaba con la resignación de quien había previsto exactamente aquello. A su lado el teniente comandante Samuel Lewinski Jefe de seguridad.
 
-—Te debo veinte —dijo el primer oficial.
+—Te debo veinte —dijo el Pieter.
 
 —Yo aposté por la cuarta partida.
 
@@ -1439,9 +1452,9 @@ Aquello tampoco ayudó. Una silla cayó. Alguien protestó. Alguien más protest
 
 —Los humanos siempre superan expectativas.
 
-Llegaron al grupo justo cuando Takoda era empujado accidentalmente por tercera vez. El jefe de seguridad inmovilizó a un kallamita. El primer oficial separó a otro. Durante unos tres segundos pareció que recuperarían el control. Luego alguien intentó recuperar su honor.
+Llegaron al grupo justo cuando Takoda era empujado accidentalmente por tercera vez. Lewinski inmovilizó a un kallamita. El primer oficial separó a otro. Durante unos tres segundos pareció que recuperarían el control. Los kallamitas optaron por recuperar su honor.
 
-Y empeoró todo. Las puertas del local se abrieron. Entraron los agentes de seguridad de la estación. Uno observó la escena. Miró al segundo agente.
+Y todo empeoró. Las puertas del local se abrieron. Entraron los agentes de seguridad de la estación. Uno observó la escena. Miró al segundo agente.
 
 —¿Otra vez?
 
@@ -1460,6 +1473,7 @@ Barbarroja apoyó ambas manos sobre la mesa.
 Cho no respondió.
 
 —Y sé que vas a entrar de todos modos.
+
 »Pero necesito decirlo porque soy tu amigo.
 
 Levantó la vista.
@@ -1476,7 +1490,7 @@ Barbarroja negó lentamente con la cabeza.
 
 Durante unos segundos ninguno de los dos habló. Cho terminó el café. Ya estaba frío.
 
-Cho observó la identificación.
+Cho recibió una comunicación urgente. Observó la identificación.
 
 —Tengo que irme.
 
@@ -1494,17 +1508,21 @@ Hacía mucho que nadie lo llamaba así dos veces en una misma noche. Barbarroja 
 
 —Quiero que regreses.
 
-—Esa sí que es una frase vacía.
+—Esa es una frase vacía.
 
 —No lo es.
+
 »Quiero que vuelvas de verdad.
+
 »Quiero que dentro de unos meses entres por esa puerta.
+
 »Quiero poder seguir quejándome de tus decisiones.
-»Y quiero que volvamos a sentarnos aquí a beber este café horrible.
+
+»Y quiero que volvamos los tres a sentarnos aquí a beber este café horrible.
 
 Cho bajó la vista hacia la taza.
 
-—Eso último es una amenaza.
+—Lo del café parece una amenaza.
 
 —Funciona mejor que los discursos.
 
@@ -1524,7 +1542,7 @@ Ya fuera del salón el capitán abrió su comunicador:
 
 ---
 
-La sala de situación de la Alejandro estaba en silencio. Un silencio incómodo. Un silencio que no mejoraba al observar a los presentes. El Varela tenía el pómulo amoratado. Takoda lucía un corte poco elegante sobre una ceja. El Maarten parecía perfectamente normal. Aquello resultaba irritante. El Teniente Comandante Samuel Lewinski tenía el uniforme rasgado en una manga. El Comandante Pieter Malan exhibía un hematoma creciente en la mandíbula. Nadie parecía especialmente orgulloso de sí mismo.
+La sala de situación de la Alejandro estaba en silencio. Un silencio incómodo. Un silencio que no mejoraba al observar a los presentes. Varela tenía el pómulo amoratado. Takoda lucía un corte poco elegante sobre una ceja. Maarten parecía perfectamente normal. Aquello resultaba irritante. Lewinski tenía el uniforme rasgado en una manga. Malan exhibía un hematoma creciente en la mandíbula. Nadie parecía especialmente orgulloso de sí mismo.
 
 La puerta se abrió. Jun Cho entró en la sala. Observó el grupo. Después volvió a observarlo.
 
@@ -1568,15 +1586,15 @@ Cho asintió.
 
 —Bien.
 
-—La estación también participó.
+—La estación sufrió algún daño colateral.
 
-—Samuel.
+—Lewinski.
 
 —Considero importante la precisión de los hechos.
 
 Cho cerró los ojos un instante.
 
-—¿Hay alguien en esta sala que no haya sido arrestado?
+—¿Hay alguien en esta sala que no tenga cargos?
 
 Se hizo un silencio. Takoda levantó un dedo.
 
@@ -1584,17 +1602,17 @@ Se hizo un silencio. Takoda levantó un dedo.
 
 —Eso no mejora tu situación.
 
-—¿Daños materiales?
+—¿Cuáles son esos daños materiales?
 
 Lewinski consultó la tableta.
 
 —Tres mesas.
 
-—Cuatro sillas.
+»Cuatro sillas.
 
-—Un tablero kallamita de competición.
+»Un tablero kallamita de competición.
 
-—Y aproximadamente cuatro toneladas de pescado.
+»Y aproximadamente cuatro toneladas de pescado.
 
 Silencio.
 
@@ -1602,17 +1620,16 @@ Cho parpadeó.
 
 —¿Perdón?
 
-Nadie pareció particularmente interesado en explicar el pescado. Cho observó la sala una vez más.
+—Debieron ser seis toneladas y cuatrocientos kilogramos, pero arreglamos en cuatro.
 
-—De estos tres podía esperarlo.
+Cho le hizo una mirada de silencio. Luego señaló a Takoda, Maarten y Varela.
 
-Señaló a Takoda, Maarten y Varela.
-
-—De hecho, habría estado preocupado si no hubieran estado implicados.
+—De estos tres podía esperarlo. De hecho, habría estado preocupado si no hubieran estado implicados.
 
 Takoda pareció tomárselo como un cumplido. No lo era. Cho desplazó la mirada hacia Pieter Malan y Samuel Lewinski.
 
 —Pero un primer oficial y un jefe de seguridad.
+
 »Eso sí consigue sorprenderme.
 
 El silencio se prolongó unos segundos.
@@ -1623,7 +1640,8 @@ El silencio se prolongó unos segundos.
 
 Levantó una mano.
 
-—No quiero detalles.
+—No quiero más detalles.
+
 »Los detalles solamente conseguirían empeorar el informe.
 
 Cerró la carpeta.
@@ -1641,31 +1659,84 @@ Las expresiones volvieron a tensarse.
 Cho apoyó ambas manos sobre la mesa.
 
 —Acabo de ver a una parte del personal responsable de llevar esta expedición a la región más peligrosa de la galaxia siendo arrestado por una patrulla portuaria.
+
 »Y eso no inspira exactamente confianza.
 
 Nadie tuvo nada que decir a aquello.
 
-—La Dra. Patel se ocupará de ustedes.
+—La Dra. Patel se ocupará de ustedes. Que los deje presentables.
 
 Observó el labio de Takoda. Después el pómulo de Varela. Después la mandíbula de Malan.
 
 —Quiero que la próxima vez que vea estas caras parezcan oficiales de exploración.
+
 »No supervivientes de una mala decisión colectiva.
 
 En ese instante se abrió un canal de comunicaciones.
 
-—Puente a sala de situación.
+—Puente a capitán.
 
 Cho levantó la vista.
 
 —Adelante.
 
-—La Fragata Nueva York acaba de entrar en el perímetro de aproximación.
+—La Fragata Manhattan acaba de entrar en el perímetro de aproximación.
+
 »Tiempo estimado para atraque: cinco minutos.
 
 El silencio regresó instantáneamente. Cho observó a los presentes.
 
 —Perfecto.
+
+---
+
+La fragata *Manhattan*_* apareció lentamente más allá de los ventanales principales de la estación. Incluso entre el tráfico constante del puerto resultaba difícil ignorarla. Esbelta. Oscura. Diseñada para la velocidad antes que para la comodidad.
+
+Los remolcadores de atraque comenzaron a guiarla hacia su posición asignada mientras los paneles luminosos actualizaban rutas y corredores de seguridad.
+
+—Y ahí llega nuestra supervisión —dijo Varela.
+
+—Nuestra supervisión tiene rango de almirante —corrigió Patel.
+
+—Eso la convierte en supervisión especialmente peligrosa.
+
+Minutos después la comitiva procedente de la *Manhattan*_* hacía formación de guardia de honor en la barquilla del capitán, oficiales, especialistas y personal diplomático de diversas especies. Aquella imagen bastaba para recordar algo que la expedición tendía a olvidar. La expedición era predominantemente humana. La Alianza Sagitario no. La almirante Rahal salió de su transporte y fue recibida por los oficiales. Recorrió el grupo con una sola mirada.
+
+—Bienvenida a bordo, almirante.
+
+Rahal asintió.
+
+—Gracias, capitán. ¿Esta es la tripulación completa?
+
+Cho asintió.
+
+—Sí, almirante.
+
+—Magnífico.
+
+Su mirada se detuvo un instante en algunos rostros magullados, que Patel no había tenido tiempo de atender.
+
+—Veo que han aprovechado el tiempo de espera de forma productiva.
+
+—Intentamos integrarnos con la cultura local.
+
+Rahal observó a Varela.
+
+—Capitán.
+
+—Almirante.
+
+—No vuelva a hacerlo.
+
+—Haré todo lo posible.
+
+—Eso es exactamente lo que me preocupa.
+
+Cho giró hacia Lewinski.
+
+—Comandante, acompañe a la almirante a sus alojamientos.
+
+La comitiva volvió a su nave.
 
 ---
 
@@ -1676,9 +1747,13 @@ El puente de la Alejandro recuperaba lentamente su ritmo habitual.
 Pieter Malan consultó su tableta.
 
 —Tripulación embarcada y lista para la partida.
+
 »Sistemas operativos dentro de parámetros.
+
 »Escolta lista.
+
 »Comunicaciones listas.
+
 »Navegación lista.
 
 Cho asintió.
@@ -1689,7 +1764,7 @@ Cho asintió.
 
 Hizo una breve pausa.
 
-—Incluyendo las cuatro toneladas de pescado.
+—Incluyendo cuatro toneladas de pescado.
 
 El silencio fue inmediato. Cho cerró los ojos. Resopló.
 
@@ -1703,11 +1778,11 @@ Cho apoyó una mano sobre el respaldo de su asiento.
 
 —Llévenos a la sombra, Maarten.
 
-—Sí, señor —una pequeña sonrisa apareció en el rostro del Capitán de Corbeta.
+—Sí, señor —una pequeña sonrisa apareció en el rostro del capitán de corbeta.
 
 La orden recorrió el puente. Fuera de la nave, el muelle comenzó a alejarse lentamente. A través del ventanal observaron cómo la  escolta ocupaban sus posiciones alrededor de la formación. Durante unos segundos nadie habló.
 
-Por la ventana frontal del puente todos pudieron ver una agrupación de luces cerca de los muelles. Varias corbetas policiales de la Alianza rodeaban al carguero de transporte con la cabeza de pescado como logotipo. Cho observó la imagen, junto con Varela, Maarten y Takoda. Nadie dijo nada. Nadie parecía dispuesto a formular preguntas cuya respuesta ya conocía.
+Por la ventana frontal del puente todos pudieron ver una agrupación de luces cerca de los muelles. Varias corbetas policiales de la Alianza rodeaban al carguero de transporte con el logotipo de cabeza de pescado. Cho observó la imagen, junto con Varela, Maarten y Takoda. Nadie dijo nada. Nadie parecía dispuesto a formular preguntas cuya respuesta temía.
 
 Veinticinco minutos después la Alejandro continuaba alejándose de Novogord. Desde hacía rato que no se veían los muelles. A través del ventanal las balizas de advertencia aparecían en todas direcciones. Miles de pequeños emisores flotando en el vacío con hologramas que mostraban el mensaje, «ZONA DE EXCLUSIÓN DE SALTO» Algunas estaban separadas por apenas unos miles de kilómetros. Otras formaban corredores completos que señalaban los límites de la zona segura.
 
@@ -1734,10 +1809,6 @@ Maarten amplió un esquema en una pantalla.
 —Cuando un puente se abre genera una deformación gravitatoria temporal.
 
 —Pequeña —aclaró Varela.
-
-—Normalmente.
-
-—Normalmente.
 
 Helena observó la imagen.
 
@@ -1775,6 +1846,10 @@ Varela sonrió.
 
 —Es una de esas raras ocasiones en las que todos los abogados de la galaxia están de acuerdo.
 
+—Cuando nos aproximábamos no vi ninguna.
+
+—No se inicia un puente tan cerca de una estrella, aunque sea una enana. El gradiente no es suficiente.
+
 Las boyas fueron quedando atrás. Un operador levantó la vista.
 
 —Posición de salto alcanzada.
@@ -1799,15 +1874,15 @@ Cho asintió.
 
 —Proceda.
 
-Durante una fracción de segundo una membrana azulada creció desde el centro de la nave hasta cubrir toda la formación, incluyendo la escolta. Takoda parpadeó.
+Durante una fracción de segundo una membrana azulada creció desde el centro de la nave crucero hasta cubrir toda la formación, incluyendo la escolta. Takoda parpadeó.
 
 —Nunca me acostumbro a eso.
 
-—Desconectando pantalla.
+—Bajando pantalla gravitacional.
 
 Por un instante las estrellas desaparecieron. Al siguiente habían regresado.
 
-—Ya está.
+—Bienvenidos a Narimis.
 
 Takoda giró la cabeza.
 
@@ -1833,7 +1908,7 @@ Varela sonrió.
 
 —La física también tiene favoritos.
 
-—No creo, salir del pozo gravitatorio de Narimis son dos días.
+—No estoy tan seguro. Desde Narimis luego tardaremos días en alcanzar una posición adecuada para saltar.
 
 Frente a ellos brillaba una estrella inmensa. Azul. Dominando el espacio circundante. El sistema Narimis.
 

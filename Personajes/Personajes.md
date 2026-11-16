@@ -21,28 +21,22 @@
 
 ## Grados militares
 
-### Oficiales subalternos
+- Oficiales subalternos
+  1. Alférez
+  2. Teniente
+  3. Capitán de Corbeta
+- Oficiales superiores
+  1. Mayor
+  2. Teniente Comandante
+  3. Comandante
+- Mando de flotilla
+  1. Capitán
+  2. Comodoro
+- Ato mando
+  1. Contraalmirante
+  2. Vicealmirante
+  3. Almirante
 
-1. Alférez
-2. Teniente
-3. Capitán de Corbeta
-
-### Oficiales superiores
-
-4. Mayor
-5. Teniente Comandante
-6. Comandante
-
-### Mando de flotilla
-
-7. Capitán
-8. Comodoro
-
-### Alto mando
-
-9. Contraalmirante
-10. Vicealmirante
-11. Almirante
 ## Dra. Meera Patel
 
 Algo sarcástica y un poco suspicaz. inteligente y prudente.
@@ -287,7 +281,7 @@ Por eso funciona como primer oficial.
 Su filosofía profesional podría resumirse en:
 
 > "Mi trabajo no consiste en tener razón.
-> 
+>
 > Mi trabajo consiste en asegurarme de que el capitán sobreviva a sus ideas."
 
 ---
@@ -334,27 +328,27 @@ Lleva tantos años viendo científicos brillantes tomar decisiones absurdas que 
 Los imagino así:
 
 > —¿Cuántos detenidos?
-> 
+>
 > —Técnicamente ninguno.
-> 
+>
 > —Samuel.
-> 
+>
 > —Cinco.
-> 
+>
 > —Gracias.
-> 
+>
 > —De nada.
 
 o
 
 > —¿Qué ha ocurrido?
-> 
+>
 > —¿La versión resumida o la honesta?
-> 
+>
 > —La resumida.
-> 
+>
 > —Pelea de bar.
-> 
+>
 > —¿Y la honesta?
-> 
+>
 > —Pelea de bar iniciada por sus oficiales.
